@@ -1,0 +1,43 @@
+---
+title: "Generative aRt"
+description: |
+  Generative art is a captivating realm where code and creativity intertwine, giving rise to unique visual experiences. Created using the powerful R programming language, my explorations in generative art delve into the beauty of algorithmic creation, where each line of code becomes a brushstroke on a digital canvas. Through the manipulation of variables, functions, and mathematical concepts, I breathe life into shapes, colors, and patterns that evolve and interact in unpredictable ways. This intersection of programming prowess and artistic expression opens doors to endless possibilities, inviting viewers to immerse themselves in a world where art emerges from the depths of code.
+---
+
+# Mosaic Art
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+library(aRtsy)
+```
+
+```{r}
+#set.seed(1)
+#mosaicart <- canvas_mosaic(colors = colorPalette("neo3"))
+#saveCanvas(mosaicart, filename = "mosaicaRt.png")
+```
+
+
+![Creating mosaic art in R involves piecing together small elements or tiles to form a larger image or pattern. It’s a creative process that combines coding and artistry, much like arranging physical mosaic pieces. In R, you can use packages like `ggplot2` or specialized packages like `ggmosaic` to generate mosaic plots, which visually represent categorical data in a grid of rectangles or squares. These plots use color intensity or shading to indicate the frequency or proportion of data points in each category, creating a visually engaging representation of your dataset. The process often involves manipulating data frames, specifying plot aesthetics, and customizing the layout to achieve the desired artistic and analytical effects.](mosaicaRt.png)
+
+# Collatz Art
+```{r}
+#set.seed(1)
+#collatzart <- canvas_collatz(colors = c("blue", "orange", "lightgrey", "orange4", "blue3"), background = "grey", n = 400)
+#saveCanvas(collatzart, filename = "collatzaRt.png")
+```
+
+![In R, you can generate Collatz sequences using iterative algorithms and then visualize them in various ways. One approach might be to plot the sequence lengths against the starting values, creating a scatter plot or a line plot that showcases patterns or anomalies in the sequences. You can use packages like ggplot2 for plotting and dplyr for data manipulation to streamline your workflow. Experimenting with color schemes, point sizes, and plot aesthetics can lead to visually striking representations that help deepen your understanding of this intriguing mathematical problem.](collatzaRt.png)
+
+# Square Art
+```{r}
+#set.seed(1)
+#squareart <- canvas_squares(colors = c("blue", "orange"), cuts = 1000, ratio = 1.618)
+#saveCanvas(squareart, filename = "sqaureaRt.png")
+```
+
+![Creating square art in R involves using programming techniques to generate visually appealing patterns or designs composed of squares. This can be done using various R packages such as ggplot2, grid, or ggpattern for more intricate designs. One approach is to create a grid of squares where each square's color, size, or position is determined by data values or algorithmic rules. For example, you could create a mosaic-like pattern using different colors to represent categories in a dataset, or you could create a pixel art-style image using squares of varying colors.](squareaRt.png)
+
+

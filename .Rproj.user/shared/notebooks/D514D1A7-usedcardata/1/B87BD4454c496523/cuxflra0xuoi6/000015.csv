@@ -1,0 +1,8 @@
+"0","ggplot(vehicles, aes(x = cylinders, y = displacement, fill = cylinders)) +"
+"0","  geom_violin(scale = ""width"", alpha = .5) + guides(fill = ""none"") +"
+"0","  labs(x = ""Number of Cylinders in a Vehicle"","
+"0","       y = ""Displacement of a Vehicle"","
+"0","       title = ""Does Cylinders and Displacement have Correlation?"")"
+"2","Error in ggplot(vehicles, aes(x = cylinders, y = displacement, fill = cylinders)) : 
+  could not find function ""ggplot""
+"

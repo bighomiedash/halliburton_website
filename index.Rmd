@@ -1,0 +1,46 @@
+---
+title: "Devin's MATH 230 Journey"
+image: "images/devinheadshot.jpeg"
+links:
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: 'https://www.linkedin.com/in/devin-halliburton-397203221/ target = "_blank"'
+  - label: '<i class="fab fa-envelope"></i> Email'
+    url: 'mailto:halliburtondevin@gmail.com target = "_blank"'
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+# ---
+# Biography:
+# ---
+My name is Devin Halliburton and I am a dynamic tech professional with a passion for problem-solving and innovation. From an early age, I have had a keen interest in technology, which led to a deep exploration of various programming languages and tools.
+
+With a solid foundation in languages like Python, Java, C, and R, I have been able to hone skills in creating efficient and scalable solutions across different platforms. 
+
+Throughout this website, you will be able to access a showcase of the work I have completed in MATH-230: Data Visualizations and Computing. From generative art to my final course project, there are many projects to be viewed. I hope you enjoy the website, just as much as I enjoyed creating it!
+
+# ---
+# Education:
+# ---
+Bucknell University | Lewisburg, PA
+
+Bachelor of Arts in Computer Science | August 2020 - May 2024
+
+# ---
+# Experience:
+# ---
+Pricewaterhouse Coopers LLC | Washington, D.C.
+
+Associate, Tech Operations | August 2024 - Present
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+

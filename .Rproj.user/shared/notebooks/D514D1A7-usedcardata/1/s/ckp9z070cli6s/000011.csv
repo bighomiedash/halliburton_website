@@ -1,0 +1,8 @@
+"0","ggplot(vehicles, aes(x = highway, y = cylinders, fill = cylinders)) + geom_boxplot() +"
+"0","  guides(fill = ""none"") +"
+"0","  labs(x = ""Miles Per Gallon (MPG)"","
+"0","       y = ""Number of Cylinders"","
+"2","Error: Incomplete expression:   labs(x = ""Miles Per Gallon (MPG)"",
+       y = ""Number of Cylinders"",
+       title = ""Does the Number of Cylinders have an effect on the Miles Per Gallon (MPG)"")+ scale_fill_manual(values = devinPalette) + scale_colour_manual(values = devinPalette)
+"

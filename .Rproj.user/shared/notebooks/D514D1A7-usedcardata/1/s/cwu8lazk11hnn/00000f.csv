@@ -1,0 +1,19 @@
+"0","# Install libraries that will be used"
+"0","library(ggplot2)"
+"0",""
+"0","# Read Data Frame into our Environment and Attach for further use"
+"0","vehicles <- read.csv(""vehicles4.csv"")"
+"0","attach(vehicles)"
+"2","The following objects are masked from vehicles (pos = 4):
+
+    city, cylinders, displacement, drive, gas, highway, make, model,
+    transmission, type, year
+
+"
+"0","# Clean the data even further more (creating factors)"
+"0","vehicles$cylinders <- factor(vehicles$cylinders, levels = c(0, 4, 5, 6, 8, 10, 12), ordered = FALSE)"
+"0","vehicles$drive <- factor(drive, levels = c(""4-Wheel Drive"", ""All-Wheel Drive"", ""Rear-Wheel Drive""), ordered = FALSE)"
+"0","vehicles$gas <- factor(gas, levels = c(""Premium"", ""Regular"", ""Hybrid"", ""Electricity"", ""Diesel""), ordered = FALSE)"
+"0","vehicles$make <- factor(make, levels = c(""Audi"", ""BMW"", ""Mercedes-Benz""), ordered = FALSE)"
+"0","vehicles$transmission <- factor(transmission, levels = c(""Manual"", ""Automatic""), ordered = FALSE)"
+"0","vehicles$type <- factor(type, levels = c(""Coupe"", ""Large"", ""SUV"", ""Subcompact"", ""Midsize"", ""Wagon"", ""SPV"", ""Minicompact"", ""Compact""), ordered = FALSE)"

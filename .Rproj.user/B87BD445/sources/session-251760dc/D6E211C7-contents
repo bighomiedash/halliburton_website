@@ -1,0 +1,182 @@
+---
+title: "Smiles Per Gallon"
+description: |
+  The used car dataset focusing on the renowned German automakers Audi, BMW, and Mercedes-Benz comprises 5565 observations and encompasses 11 key variables. These variables include cylinders, displacement, drive type, fuel type (gas), make (manufacturer), model, transmission type, city fuel efficiency, highway fuel efficiency, vehicle type, and model year. Such detailed attributes offer a comprehensive view of each vehicle's technical specifications, fuel efficiency ratings, drivetrain configurations, and model-specific details. Analysts and enthusiasts can utilize this dataset to explore trends in engine technology, fuel economy performance, transmission preferences, and model year preferences across these esteemed automotive brands, providing valuable insights into the used car market for German luxury vehicles.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+# Install libraries that will be used
+library(ggplot2)
+
+# Read Data Frame into our Environment and Attach for further use
+vehicles <- read.csv("vehicles4.csv")
+attach(vehicles)
+
+# Clean the data even further more (creating factors)
+vehicles$cylinders <- factor(vehicles$cylinders, levels = c(0, 4, 5, 6, 8, 10, 12), ordered = FALSE)
+vehicles$drive <- factor(drive, levels = c("4-Wheel Drive", "All-Wheel Drive", "Rear-Wheel Drive"), ordered = FALSE)
+vehicles$gas <- factor(gas, levels = c("Premium", "Regular", "Hybrid", "Electricity", "Diesel"), ordered = FALSE)
+vehicles$make <- factor(make, levels = c("Audi", "BMW", "Mercedes-Benz"), ordered = FALSE)
+vehicles$transmission <- factor(transmission, levels = c("Manual", "Automatic"), ordered = FALSE)
+vehicles$type <- factor(type, levels = c("Coupe", "Large", "SUV", "Subcompact", "Midsize", "Wagon", "SPV", "Minicompact", "Compact"), ordered = FALSE)
+```
+
+# Introduction
+
+German manufacturers have become the forefront of producing high-end vehicles without decreasing miles per gallon significantly, hence the name `smiles per gallon`. For my research, we will be diving into the data behind `smiles per gallon`. As we move further away from the spark of automobiles manufacturers are trying to make their vehicles more fuel efficient, by making internal changes with the `cylinders` and `displacement`. We will use  `year`, `highway mpg`, `city mpg`, and `make`, to help build upon our findings, and see who is the most successful German Automobile Manufacturer!
+
+# Do Newer German Cars have Better Miles per Gallon (MPG)?
+
+We will take the variables `year`, `highway` and `city` to see if there is correlation with the miles per gallon (mpg) they average based on the year of the vehicles. We will use the `cor()` function to see the linear relationship.
+
+```{r}
+cor(year, highway)
+cor(year, city)
+```
+
+We can see that with both `highway` mpg and `city` mpg, the `year` has a weak positive linear relationship, thus we can state that has the newer models of vehicles are produced, the miles per gallon slightly increases as well. We can look at the following `heat map` to visualize the data:
+
+```{r}
+ggplot(vehicles, aes(x = year, y = highway, color = make)) +
+  labs(x = "Year the Vehicle was Produced",
+       y = "Highway Miles Per Gallon (MPG)",
+       title = "Have Manufacturers been Improving on Miles Per Gallon?") +
+  stat_density_2d(aes(fill = after_stat(level)), geom = "polygon", color = "grey", h = c(50,50)) +
+  scale_fill_distiller(palette = "Spectral")
+```
+
+From the `heat map` visualization we can see that most of the vehicles tend to be around twelve miles per gallon to forty-five miles per gallon. As we reach the 2010 era, we can see Audi and BMW began to make the step towards hybrid and full electric vehicles, thus increasing the miles per gallon. If we take a step closer to the present we can see that in 2022 there was the spark of full electric vehicles, leading to the much higher miles per gallon, most likely giving us the slightly positive linear relationship between `year` and `highway`.
+
+# Do Cylinders and Displacement have Correlation?
+
+Motorized engines have cylinders, which can vary between manufacturers, and even models from the same manufacturer. Displacement is based on the amount of oil (liters) a motorized engine needs to operate consistently. Considering that we want to see if the `cylinders` and `displacement` are correlated, thus we can assume throughout the study that whether we look at `cylinders` or `displacement` we will get the same outcome to whatever variable we are comparing it to.
+
+```{r}
+library(ggpubr)
+devinPalette <- c("purple3", "#F2E58F", "grey", "blue1", "orange", "navy", "white")
+ggplot(vehicles, aes(x = cylinders, y = displacement, fill = cylinders)) +
+  geom_violin(scale = "width", alpha = .5) + guides(fill = "none") +
+  labs(x = "Number of Cylinders in a Vehicle",
+       y = "Displacement of a Vehicle",
+       title = "Does Cylinders and Displacement have Correlation?") + scale_fill_manual(values = devinPalette) + scale_colour_manual(values = devinPalette)
+```
+
+As we take a look at the `violin` plot, we first notice that vehicles with zero cylinders (electric cars, therefore they have a battery, and not a engine) would also have no displacement. We can immediately see that as the number of cylinders increase, the displacement of an engine will increase as well. We can say that `cylinders` and `displacement` have a strong positive linear relationship, so moving forward when we talk about `cylinders` or `displacement` know changing them will not have any effect.
+
+# Do Different Engines have Different Miles Per Gallon (MPG)?
+
+When the number of cylinders increase, the horsepower (hp) from that engine increases as well (if we are only talking about naturally aspirated engines). Considering that these German Manufacturers are well known not only for their luxury, but as well there ability to produce some of the best sports cars this world has ever seen.
+
+We can create a `boxplot` to see if the number of cylinders has an effect on the miles per gallon:
+
+```{r}
+ggplot(vehicles, aes(x = highway, y = cylinders, fill = cylinders)) + geom_boxplot() +
+  guides(fill = "none") +
+  labs(x = "Miles Per Gallon (MPG)",
+       y = "Number of Cylinders",
+       title = "Does the Number of Cylinders have an effect on the Miles Per Gallon (MPG)")+ scale_fill_manual(values = devinPalette) + scale_colour_manual(values = devinPalette)
+```
+
+We can initially see that the electric vehicles have the highest miles per gallon, sitting around one-hundred and twenty miles per gallon. As we add cylinders and increase, we can see that the average miles per gallon begins to decrease. There is an odd sighting where vehicles with five cylinders have a lower miles per gallon, compared to six cylinders. This of course could be due to the outliers, but as well the only vehicles with five cylinder engines is Audi, and all of their five cylinder vehicles are track orientated, therefore miles per gallon is not a priority.
+
+Now if we could take a step further and look more specifically at engines that are forced induction (meaning they have a turbocharger or supercharger application to add more horsepower to the engine) we would be able to see that manufacturers use force induction to achieve more power while sustaining good fuel efficiency.
+
+# Have German Manufacturers Reduce Production of Big Displacement Vehicles?
+
+As we learned above the `Do Different Engines have Different Miles Per Gallon (MPG)?` visualization, the number of cylinders does have a negative effect on the miles per gallon. Thus, we can also state that the bigger the displacement an engine as, the bigger decrease we will see in miles per gallon.
+
+We will now see if these German powerhouses have consider this aspect when it comes to producing cars over time. We will see if the displacement in engines has increased or decreased overtime, considering that is has a negative impact on fuel efficiceny. We can use the `cor` function to see the linear relationship between `year` and `displacement`:
+
+```{r}
+cor(year, displacement)
+```
+
+The `year` and `displacement` have a very weak negative linear relationship, meaning we can assume that the displacement can vary over the years, but as the years increase we can see a small decrease in displacement size. We can continue looking at this relationship in a `point density` plot:
+
+```{r}
+library(dplyr)
+library(viridis)
+library(ggpointdensity)
+
+ggplot(vehicles, aes(x = year, y = displacement)) +
+  geom_pointdensity(size = 4) +
+  scale_color_viridis() + labs(
+    x = "Years Vehicles were Manufactured",
+    y = "Vehicles' Displacement (Liters)",
+    title = "Do Manufacturers Still Produce High Displacement Engines?"
+  ) + 
+  scale_color_gradient(name = "Number of Vehicles", low = 'purple4', high = '#F2E58F')
+```
+
+From the visualization we can see that there were no electric vehicles with electric until 2011. As well, that manufacturers consistently are producing cars with high displacements around five to six liters. This is interesting to see considering as we progress towards the future, we are pushing towards a safe ecosystem, therefore getting rid of high displacement vehicles that are using more gasoline, thus decreasing our miles per gallon.
+
+On the other hand, for car enthusiast that love the thrill of driving fast vehicles, this is something they would love to see, and we can trust and believe that Audi, BMW, and Mercedes-Benz is still continuing on that legacy for their consumers.
+
+# Does Less Cylinders mean Cheaper Gas?
+
+We all have gone to the gas station and seen that the prices vary depending on the type of gas you want, from regular, midgrade, premium, and diesel. Does the number of cylinders have an effect on the type of gasoline that the vehicle will require? We will use a `bar` chart to help us see the data in a visualization:
+
+```{r}
+ggplot(vehicles, aes(x = vehicles$cylinders, fill = vehicles$gas)) + geom_bar(position = "fill") +
+  labs(
+    x = "Number of Vehicles Using Gas Type",
+    y = "Number of Cylinders",
+    title = "Does Less Cylinders mean Cheaper Gasoline"
+  ) + scale_fill_manual(name = "Gas Type", values = devinPalette) + scale_colour_manual(values = devinPalette)
+```
+
+We can see from the stacked `bar` chart that even when the number of cylinders increase, these German manufacturers still recommend the consumers to only use `premium` gasoline mostly for their vehicles. This can also be caused by the type of metal the engines are built out of, as well to help keep the engine in top shape as the mileage increases throughout the years.
+
+Audi is interesting here, because they are the only manufacturer to produce the five cylinder vehicles, therefore they prefer consumers to use `regular` gasoline and explain there is no need for `premium`. 
+
+# Who has a nitch for certain Powertrains?
+
+Considering all the observations we have made above, it is now time to see which German powerhouse has made the steps towards the future of max fuel efficiency vehicles. We will be working with all the vehicles that were produced after the year 2019 (so 2020 to the present). We can see this by comparing the `make` and `cylinders` in a `barplot`, as well using `prop.table()` to see which manufacturer produces what type of engines based on the cylinders:
+
+* 0 - No Fuel Efficiency (Best)
+* 4 - Very Good Fuel Efficiency
+* 6 - Good Fuel Efficiency
+* 8 - Average Fuel Efficiency
+* 10 - Bad Fuel Efficiency
+* 12 - Very Bad Fuel Efficiency (Worst)
+
+```{r}
+library(plotly)
+# Read Data Frame into our Environment and Attach for further use
+vehicles.new <- read.csv("vehiclesnew.csv")
+
+# Clean the data even further more (creating factors)
+vehicles.new$cylinders <- factor(vehicles.new$cylinders, levels = c(0, 4, 5, 6, 8, 10, 12), ordered = FALSE)
+vehicles.new$drive <- factor(vehicles.new$drive, levels = c("4-Wheel Drive", "All-Wheel Drive", "Rear-Wheel Drive"), ordered = FALSE)
+vehicles.new$gas <- factor(vehicles.new$gas, levels = c("Premium", "Regular", "Hybrid", "Electricity", "Diesel"), ordered = FALSE)
+vehicles.new$make <- factor(vehicles.new$make, levels = c("Audi", "BMW", "Mercedes-Benz"), ordered = FALSE)
+vehicles.new$transmission <- factor(vehicles.new$transmission, levels = c("Manual", "Automatic"), ordered = FALSE)
+vehicles.new$type <- factor(vehicles.new$type, levels = c("Coupe", "Large", "SUV", "Subcompact", "Midsize", "Wagon", "SPV", "Minicompact", "Compact"), ordered = FALSE)
+
+ggplotly(ggplot(vehicles.new, aes(x = cylinders, fill = make)) + geom_bar(position = "dodge") +
+  labs(
+    x = "Number of Cylinders",
+    y = "Number of Vehicles Produced",
+    title = "Which Engine is a Manufacturers Favorite Powertrain?"
+  ) + scale_fill_manual(name = "Manufacturers", values = devinPalette) + scale_colour_manual(values = devinPalette))
+
+prop.table(table(vehicles.new$cylinders, vehicles.new$make), margin = 1)
+```
+
+Based on the `barplot`, we can see see that the German manufacturers are moving away from the high cylinder engines (10 and 12). This can be due to the movement from naturally aspirated sport cars, to adding forced induction (turbochargers and superchargers) on engines with less cylinders (4, 5, 6, and 8). We also can see that the manufacturers have not quite made the huge transition to making more electric vehicles compared to the combustion competitor.
+
+These are all good observations, but what we are all waiting for is to see which German manufacturer of the powerhouse will be the king of `Smiles Per Gallon`. We can see instantly that `Mercedes-Benz` continues to produce the most twelve cylinders at 62.5% compared to `BMW`'s 37.5%. Despite `Audi` not having any vehicles with twelve cylinders, they are the only German manufacturer of the three that produces vehicles with ten cylinders.
+
+We move on to the most seen gas guzzlers the eight cylinder vehicles, where `BMW` and `Mercedes-Benz` both make up 43.9%, compared to `Audi`'s 12.1%. The most popular engine worldwide is the V8 which is compromised of eight cylinders, and comes in many different forms, especially from these German manufacturers. There are so many legendary vehicles that have been produced like the BMW M5, or the Audi RS 6, or even the Mercedes-Benz C63.
+
+Six cylinders is where BMW is king, they have made so many different inline-six cylinder engines that are considered to be the best of the best too many. Most recently, BMW released the M340i which comes with a B58 engine (six cylinder) which is one of the most popular sports car on the market. `BMW` makes up 55.7% of six cylinders, while `Audi` is only at 19.4%, and `Mercedes-Benz` is at 24.9%. 
+
+Audi's low number in six cylinders is due to the fact that they are only the manufacturer of three that produces vehicles with five cylinders. A notable vehicle from Audi is there Audi RS 3 and the Audi TT RS. 
+
+Four cylinders has recently began trending because of the small engines that have great fuel efficiency, but can still pack a punch when it comes to power. Due to this common notion of four cylinders, these engines are produced almost evenly across the three manufacturers. `Audi` making up 24.7%, `BMW` making up 37.2, and last, but certainly not least `Mercedes-Benz` with 38.0%.
+
+Finally, the vehicles that do not take any fuel at all, and are the best when it comes to miles per "gallon". `BMW` has hit the ground running with electric vehicles, and has even produced their most powerful vehicle of all time the BMW XM which is a hybrid, but as a very powerful battery system to support it's turbocharged eight cylinder combustion engine. `BMW` makes up 50.0% of the electric vehicles. `Audi` has been known for their unique E-Tron, which is a fully electric powered vehicle that is their top of the line as well. `Audi` comes in at 32.7%. `Mercedes-Benz` has been a bit behind when it came to transitioning to electric vehicles and making them one of their top competitors against BMW and Audi, thus `Mercedes-Benz` is sitting at 17.2.

@@ -1,0 +1,6 @@
+"0","ggplot(vehicles, aes(x = vehicles$cylinders, fill = vehicles$gas)) + geom_bar(position = ""fill"") +"
+"0","  labs("
+"0","    x = ""Number of Vehicles Using Gas Type"","
+"0","    y = ""Number of Cylinders"","
+"0","    title = ""Does Less Cylinders mean Cheaper Gasoline"""
+"0","  ) + scale_fill_manual(name = ""Gas Type"", values = devinPalette) + scale_colour_manual(values = devinPalette)"

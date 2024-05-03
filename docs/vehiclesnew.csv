@@ -1,0 +1,1201 @@
+﻿cylinders,displacement,drive,gas,make,model,transmission,city,highway,type,year
+4,2,Rear-Wheel Drive,Premium,BMW,330i,Automatic,33.8869,51.8669,Compact,2020
+6,3,All-Wheel Drive,Premium,BMW,M340i xDrive,Automatic,27.6511,43.183,Compact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M340i,Automatic,28.1716,42.5641,Compact,2020
+4,2,Rear-Wheel Drive,Premium,BMW,430i Coupe,Automatic,29.6733,49.5795,Compact,2020
+4,2,Rear-Wheel Drive,Premium,BMW,430i Coupe,Automatic,26.901,48.1992,Compact,2020
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Coupe,Automatic,26.5245,43.9223,Compact,2020
+4,2,Rear-Wheel Drive,Premium,BMW,430i Gran Coupe,Automatic,29.6733,49.5795,Compact,2020
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Gran Coupe,Automatic,26.5245,43.9223,Compact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,440i Coupe,Automatic,28.1716,42.5641,Compact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,440i Coupe,Automatic,23.3119,38.5195,Compact,2020
+6,3,All-Wheel Drive,Premium,BMW,440i xDrive Coupe,Automatic,27.6511,43.183,Compact,2020
+6,3,All-Wheel Drive,Premium,BMW,440i xDrive Coupe,Automatic,22.7,39.2527,Compact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,440i Gran Coupe,Automatic,28.1716,42.5641,Compact,2020
+6,3,All-Wheel Drive,Premium,BMW,440i xDrive Gran Coupe,Automatic,27.6511,43.183,Compact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Coupe,Automatic,21.9429,34.6144,Compact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Coupe,Automatic,20.5456,31.6463,Compact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M4 CS,Automatic,20.5456,31.6463,Compact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Coupe Competition,Automatic,21.9429,34.6144,Compact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Coupe Competition,Automatic,20.5456,31.6463,Compact,2020
+4,2,All-Wheel Drive,Premium,BMW,330i xDrive,Automatic,31.9282,49.7691,Compact,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG CLS53 4matic Plus,Automatic,26.8,38.5,Compact,2020
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,CLS450,Automatic,30.7,43.9,Compact,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,CLS450 4matic,Automatic,29.7,42.7,Compact,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GT 53 4matic Plus,Automatic,23.9,33.6,Compact,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,C300 4matic,Automatic,28.7969,47.4966,Compact,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300,Automatic,31,50.7,Compact,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,CLA250 4matic,Automatic,29.9,47.6,Compact,2020
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,CLA250,Automatic,31.7,51.5,Compact,2020
+4,2,Rear-Wheel Drive,Hybrid,BMW,530e,Automatic,33.6,43.8,Compact,2020
+4,2,All-Wheel Drive,Hybrid,BMW,530e xDrive,Automatic,31.6,41.7,Compact,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GT 63 4matic Plus,Automatic,18.8,28.3,Compact,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GT 63 S 4matic Plus,Automatic,18.7,28.3,Compact,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,S560 4matic Coupe,Automatic,21,37.2,Compact,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG S63 4matic Plus Coupe,Automatic,21,38.2,Compact,2020
+4,2,Front-Wheel Drive,Premium,Audi,A4,Automatic,35.1,50.5982,Compact,2020
+6,3,All-Wheel Drive,Premium,Audi,S4,Automatic,25.2451,37.656,Compact,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63,Automatic,22.2,38.2,Compact,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 S,Automatic,22.2,38.2,Compact,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic,Automatic,23.8,38.5,Compact,2020
+4,2,All-Wheel Drive,Premium,Audi,A4 quattro,Automatic,29.851,45.7135,Compact,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,AMG CLA35 4matic,Automatic,29,41.1,Compact,2020
+4,2,All-Wheel Drive,Premium,BMW,228i xDrive Gran Coupe,Automatic,29.5981,47.5272,Compact,2020
+4,2,All-Wheel Drive,Premium,BMW,M235i xDrive,Automatic,29.1153,46.2643,Compact,2020
+4,2,Rear-Wheel Drive,Hybrid,BMW,330e,Automatic,33.5,46,Compact,2021
+4,2,All-Wheel Drive,Hybrid,BMW,330e xDrive,Automatic,30.7,43.5,Compact,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,AMG CLA45 4matic,Automatic,25.4,41.1,Compact,2020
+4,2,All-Wheel Drive,Premium,BMW,228i xDrive Gran Coupe,Automatic,29.494,47.0499,Compact,2021
+4,2,All-Wheel Drive,Premium,BMW,M235i xDrive Gran Coupe,Automatic,29.1153,46.2643,Compact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M340i,Automatic,29.8862,45.4686,Compact,2021
+6,3,All-Wheel Drive,Premium,BMW,M340i xDrive,Automatic,28.531,43.9383,Compact,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,AMG CLA35 4matic,Automatic,28.1,41.1,Compact,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,CLA250 4matic,Automatic,30.8,48.3,Compact,2021
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,CLA250,Automatic,32.9,51.1,Compact,2021
+6,3,All-Wheel Drive,Premium,Audi,S4,Automatic,25.8666,39.6776,Compact,2021
+4,2,Rear-Wheel Drive,Premium,BMW,330i,Automatic,33.902,51.8932,Compact,2021
+4,2,All-Wheel Drive,Premium,BMW,330i xDrive,Automatic,31.9277,49.8067,Compact,2021
+4,2,All-Wheel Drive,Premium,Audi,A4 S line quattro,Automatic,30.9018,44.183,Compact,2021
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,CLS450,Automatic,29.1,43.4,Compact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,CLS450 4matic,Automatic,28.6,41.2,Compact,2021
+4,2,All-Wheel Drive,Premium,Audi,A4 quattro,Automatic,32.5601,48.8284,Compact,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,C300 4matic,Automatic,30,48.3,Compact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG CLS53 4matic Plus,Automatic,26.3,36.9,Compact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GT 43 4matic Plus,Automatic,24.9,34.6,Compact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GT 53 4matic Plus,Automatic,24.9,34.6,Compact,2021
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300,Automatic,29.9,50.8,Compact,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63,Automatic,21.7,37.4,Compact,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 S,Automatic,21.7,37.4,Compact,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,S560 4matic Coupe,Automatic,20.2,36.8,Compact,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG S63 4matic Plus Coupe,Automatic,19.3,36.1,Compact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic,Automatic,21.9,38.2,Compact,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GT 63 S 4matic Plus,Automatic,19.3,29.5,Compact,2021
+4,2,Front-Wheel Drive,Premium,BMW,228i Gran Coupe,Automatic,31.0634,48.3091,Compact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M3,Automatic,19.8955,32.4972,Compact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M3 Competition,Automatic,20.182,32.0616,Compact,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,AMG CLA45 4matic,Automatic,24.7,40.6,Compact,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GT 63 4matic Plus,Automatic,19.3,29.5,Compact,2021
+4,2,Rear-Wheel Drive,Hybrid,BMW,530e,Automatic,32.2,41.8,Compact,2021
+4,2,All-Wheel Drive,Hybrid,BMW,530e xDrive,Automatic,29.5,40.5,Compact,2021
+4,2,All-Wheel Drive,Premium,Audi,A4 quattro,Automatic,33.3267,49.0024,Compact,2022
+4,2,All-Wheel Drive,Premium,Audi,A4 S line quattro,Automatic,30.8498,44.2667,Compact,2022
+6,3,4-Wheel Drive,Premium,Audi,S4,Automatic,26.6615,39.7738,Compact,2022
+4,2,All-Wheel Drive,Premium,BMW,228i xDrive Gran Coupe,Automatic,29.6695,47.8577,Compact,2022
+4,2,Front-Wheel Drive,Premium,BMW,228i Gran Coupe,Automatic,31.4485,49.9723,Compact,2022
+4,2,Rear-Wheel Drive,Premium,BMW,330i Sedan,Automatic,33.9488,51.905,Compact,2022
+4,2,All-Wheel Drive,Premium,BMW,330i xDrive Sedan,Automatic,31.863,49.5982,Compact,2022
+6,3,Rear-Wheel Drive,Premium,BMW,M3 Sedan,Automatic,19.8955,32.4972,Compact,2022
+6,3,Rear-Wheel Drive,Premium,BMW,M3 Competition Sedan,Automatic,20.182,32.0616,Compact,2022
+6,3,All-Wheel Drive,Premium,BMW,M440i xDrive Gran Coupe,Automatic,27.4,42.1,Compact,2022
+4,2,All-Wheel Drive,Premium,BMW,M235i xDrive Gran Coupe,Automatic,29.1675,46.776,Compact,2022
+6,3,Rear-Wheel Drive,Premium,BMW,M340i Sedan,Automatic,29.8849,45.4357,Compact,2022
+6,3,All-Wheel Drive,Premium,BMW,M340i xDrive Sedan,Automatic,29.2053,45.3931,Compact,2022
+6,3,All-Wheel Drive,Premium,BMW,M3 Competition M xDrive Sedan,Automatic,20.055,31.2954,Compact,2022
+4,2,Rear-Wheel Drive,Premium,BMW,430i Gran Coupe,Automatic,32.0246,49.2015,Compact,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,CLA250 4matic,Automatic,30.8,48.4,Compact,2022
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,CLA250,Automatic,31.9,52.1,Compact,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,CLS450 4matic,Automatic,28,42.2,Compact,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG CLA35 4matic,Automatic,27.1,41.1,Compact,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GT 53 4matic Plus,Automatic,24.1,35,Compact,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GT 43 4matic Plus,Automatic,24.1,35,Compact,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG CLA45 4matic,Automatic,24.7,39.5,Compact,2022
+4,2,Rear-Wheel Drive,Hybrid,BMW,330e Sedan,Automatic,33.5,46,Compact,2022
+4,2,Rear-Wheel Drive,Hybrid,BMW,530e Sedan,Automatic,32.2,41.8,Compact,2022
+4,2,All-Wheel Drive,Hybrid,BMW,530e xDrive Sedan,Automatic,29.5,40.5,Compact,2022
+4,2,All-Wheel Drive,Hybrid,BMW,330e xDrive Sedan,Automatic,30.7,43.5,Compact,2022
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Gran Coupe,Automatic,29.7064,47.6215,Compact,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300,Automatic,32.9,51.4,Compact,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,C300 4matic,Automatic,29.9,47.5,Compact,2022
+6,3,4-Wheel Drive,Premium,Audi,S4,Automatic,26.6609,39.7856,Compact,2023
+4,2,All-Wheel Drive,Premium,BMW,228i xDrive Gran Coupe,Automatic,29.6036,47.5522,Compact,2023
+4,2,Front-Wheel Drive,Premium,BMW,228i Gran Coupe,Automatic,31.3358,49.4781,Compact,2023
+6,3,All-Wheel Drive,Premium,BMW,M340i xDrive Sedan,Automatic,29.138,45.5617,Compact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M3 Sedan,Automatic,19.8955,32.4972,Compact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M3 Competition Sedan,Automatic,20.182,32.0616,Compact,2023
+6,3,All-Wheel Drive,Premium,BMW,M3 Competition M xDrive Sedan,Automatic,20.055,31.2954,Compact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M440i Gran Coupe,Automatic,30.9466,46.4009,Compact,2023
+6,3,All-Wheel Drive,Premium,BMW,M440i xDrive Gran Coupe,Automatic,28.2779,43.89,Compact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M340i Sedan,Automatic,29.2724,45,Compact,2023
+4,2,Rear-Wheel Drive,Premium,BMW,430i Gran Coupe,Automatic,31.876,48.9726,Compact,2023
+4,2,All-Wheel Drive,Premium,Audi,A4 S-Line quattro,Automatic,31.2409,45.2772,Compact,2023
+4,2,All-Wheel Drive,Premium,Audi,A4 quattro,Automatic,30.9654,48.2734,Compact,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,CLA250 4matic,Automatic,30.8,48.4,Compact,2023
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,CLA250,Automatic,31.9,52.1,Compact,2023
+4,2,All-Wheel Drive,Premium,BMW,M235i xDrive Gran Coupe,Automatic,30.7798,47.4375,Compact,2023
+4,2,Rear-Wheel Drive,Premium,BMW,330i Sedan,Automatic,32.8405,49.722,Compact,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300,Automatic,32.2499,51.8983,Compact,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,C300 4matic,Automatic,30.9493,48.2495,Compact,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,CLS450 4matic,Automatic,28,42.2,Compact,2023
+4,2,All-Wheel Drive,Premium,BMW,330i xDrive Sedan,Automatic,30.7875,48.46,Compact,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG CLA45 4matic,Automatic,24.8,40.5,Compact,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GT 43 4matic Plus,Automatic,24.0499,33.8,Compact,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GT 53 4matic Plus,Automatic,24.0499,33.8,Compact,2023
+4,2,Rear-Wheel Drive,Hybrid,BMW,530e Sedan,Automatic,32.2,41.8,Compact,2023
+4,2,All-Wheel Drive,Hybrid,BMW,530e xDrive Sedan,Automatic,29.5,40.5,Compact,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG CLA35 4matic,Automatic,26.2,41.3,Compact,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GT 63 4matic Plus,Automatic,18,28.6,Compact,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GT 63 S 4matic Plus,Automatic,18,28.6,Compact,2023
+4,2,Rear-Wheel Drive,Premium,BMW,430i Gran Coupe,Automatic,32.0715,49.0233,Compact,2024
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Gran Coupe,Automatic,30.0376,47.9891,Compact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M440i Gran Coupe,Automatic,30.5928,45.6126,Compact,2024
+6,3,All-Wheel Drive,Premium,BMW,M440i xDrive Gran Coupe,Automatic,28.0528,43.4014,Compact,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic,Automatic,24.5491,36.8,Compact,2023
+6,3,All-Wheel Drive,Premium,BMW,M3 CS Sedan,Automatic,18.9959,31.0335,Compact,2024
+4,2,All-Wheel Drive,Premium,Audi,A4 quattro,Automatic,32.4826,49.7014,Compact,2024
+4,2,All-Wheel Drive,Premium,BMW,228i xDrive Gran Coupe,Automatic,29.6024,47.5469,Compact,2024
+4,2,Front-Wheel Drive,Premium,BMW,228i Gran Coupe,Automatic,31.3357,49.4776,Compact,2024
+4,2,All-Wheel Drive,Premium,BMW,M235i xDrive Gran Coupe,Automatic,30.7778,47.4325,Compact,2024
+4,2,Rear-Wheel Drive,Premium,BMW,330i Sedan,Automatic,32.8405,49.722,Compact,2024
+4,2,All-Wheel Drive,Premium,BMW,330i xDrive Sedan,Automatic,30.7874,48.4596,Compact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M3 Sedan,Automatic,19.8955,32.4972,Compact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M3 Competition Sedan,Automatic,20.182,32.0616,Compact,2024
+6,3,All-Wheel Drive,Premium,BMW,M3 Competition M xDrive Sedan,Automatic,20.055,31.2954,Compact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M340i Sedan,Automatic,29.2724,45,Compact,2024
+6,3,All-Wheel Drive,Premium,BMW,M340i xDrive Sedan,Automatic,28.9434,45.1294,Compact,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i5 eDrive40 Sedan (19 inch Wheels),Automatic,149,150.1,Compact,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i5 eDrive40 Sedan (20 inch Wheels),Automatic,141.8,139.5,Compact,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i5 eDrive40 Sedan (21 inch Wheels),Automatic,138.8,133.8,Compact,2024
+0,0,4-Wheel Drive,Electricity,BMW,i5 M60 xDrive Sedan (19 inch Wheels),Automatic,126.5,130.6,Compact,2024
+0,0,4-Wheel Drive,Electricity,BMW,i5 M60 xDrive Sedan (20 inch Wheels),Automatic,125.5,126.4,Compact,2024
+0,0,4-Wheel Drive,Electricity,BMW,i5 M60 xDrive Sedan (21 inch Wheels),Automatic,119.2,121,Compact,2024
+4,2,All-Wheel Drive,Premium,Audi,A4 S line quattro,Automatic,29.9747,45.6356,Compact,2024
+6,3,All-Wheel Drive,Premium,Audi,S4,Automatic,26.064,41,Compact,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GT 43 4matic Plus,Automatic,24.0499,33.8,Compact,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GT 53 4matic Plus,Automatic,24.0499,33.8,Compact,2024
+4,2,Rear-Wheel Drive,Hybrid,BMW,330e Sedan,Automatic,34.8,46,Compact,2023
+4,2,All-Wheel Drive,Hybrid,BMW,330e xDrive Sedan,Automatic,32.2,46,Compact,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300,Automatic,33.8,52.8,Compact,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,C300 4matic,Automatic,29.8,47.9,Compact,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG CLA35 4matic,Automatic,27.7,41.8,Compact,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG CLA45 S 4matic,Automatic,25,40.1,Compact,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,CLA250 4matic,Automatic,32,50.6,Compact,2024
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,CLA250,Automatic,34.2,53.4,Compact,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GT 63 4matic Plus,Automatic,19.0499,28.7997,Compact,2024
+4,2,Rear-Wheel Drive,Hybrid,BMW,330e Sedan,Automatic,34.8,46,Compact,2024
+4,2,All-Wheel Drive,Hybrid,BMW,330e xDrive Sedan,Automatic,32.2,46,Compact,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic,Automatic,25.2,39.6,Compact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,Z4 M40i,Automatic,30.5,43.9,Coupe,2020
+10,5.2,All-Wheel Drive,Premium,Audi,R8 AWD,Automatic,16.0159,26.8762,Coupe,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT Coupe,Automatic,19.6,30.8,Coupe,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT Roadster,Automatic,19.6,30.8,Coupe,2020
+10,5.2,All-Wheel Drive,Premium,Audi,R8 Spyder AWD,Automatic,16.0159,26.8762,Coupe,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT C Coupe,Automatic,19.1,28.8,Coupe,2020
+4,2,Rear-Wheel Drive,Premium,BMW,Z4 sDrive30i,Automatic,31.4402,45.9272,Coupe,2020
+8,4.7,Rear-Wheel Drive,Premium,Mercedes-Benz,SL550,Automatic,21.8,35.7,Coupe,2020
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,SL450,Automatic,24.6,39.3,Coupe,2020
+4,2,All-Wheel Drive,Regular,Audi,TT Roadster quattro,Automatic,28.3069,42.4085,Coupe,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT C Roadster,Automatic,18.4,27.7,Coupe,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT R Coupe,Automatic,18.3,27.6,Coupe,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT R Roadster,Automatic,18.3,27.6,Coupe,2020
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG SLC43,Automatic,25.1,41.1,Coupe,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,SLC300,Automatic,29.9,46.8,Coupe,2020
+10,5.2,All-Wheel Drive,Premium,Audi,R8,Automatic,15.8765,26.0378,Coupe,2021
+10,5.2,All-Wheel Drive,Premium,Audi,R8 Spyder,Automatic,15.8765,26.0378,Coupe,2021
+6,3,Rear-Wheel Drive,Premium,BMW,Z4 M40i,Automatic,29.2,42.2,Coupe,2021
+4,2,Rear-Wheel Drive,Premium,BMW,Z4 sDrive30i,Automatic,31.8497,46.4901,Coupe,2021
+10,5.2,Rear-Wheel Drive,Premium,Audi,R8 2WD,Automatic,15.8768,29.6317,Coupe,2021
+10,5.2,Rear-Wheel Drive,Premium,Audi,R8 Spyder 2WD,Automatic,15.8768,29.6317,Coupe,2021
+4,2,All-Wheel Drive,Regular,Audi,TT Roadster quattro,Automatic,28.1148,42.1933,Coupe,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT Coupe,Automatic,18.6,27.4,Coupe,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT C Coupe,Automatic,18.3,26.9,Coupe,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT R Coupe,Automatic,17.7,27.1,Coupe,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT Roadster,Automatic,18.3,27.1,Coupe,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT C Roadster,Automatic,18.4,27.1,Coupe,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG GT Black Series,Automatic,18.6995,27.1499,Coupe,2021
+10,5.2,All-Wheel Drive,Premium,Audi,R8 Coupe,Automatic,15.6266,25.6782,Coupe,2022
+10,5.2,All-Wheel Drive,Premium,Audi,R8 Spyder,Automatic,15.6266,25.6782,Coupe,2022
+10,5.2,Rear-Wheel Drive,Premium,Audi,R8 Coupe RWD,Automatic,16.5144,29.2412,Coupe,2022
+10,5.2,Rear-Wheel Drive,Premium,Audi,R8 Spyder RWD,Automatic,16.5144,29.2412,Coupe,2022
+4,2,All-Wheel Drive,Regular,Audi,TT Roadster quattro,Automatic,28.4557,42.0083,Coupe,2022
+4,2,Rear-Wheel Drive,Premium,BMW,Z4 sDrive30i,Automatic,32.5291,46.5091,Coupe,2022
+6,3,Rear-Wheel Drive,Premium,BMW,Z4 M40i,Automatic,27.8,41.5,Coupe,2022
+4,2,All-Wheel Drive,Regular,Audi,TT Roadster,Automatic,28.3551,41.888,Coupe,2023
+10,5.2,All-Wheel Drive,Premium,Audi,R8 Coupe quattro,Automatic,15.7331,24.8001,Coupe,2023
+10,5.2,All-Wheel Drive,Premium,Audi,R8 Spyder quattro,Automatic,15.7331,24.8001,Coupe,2023
+10,5.2,Rear-Wheel Drive,Premium,Audi,R8 Coupe RWD,Automatic,16.8667,29.2427,Coupe,2023
+10,5.2,Rear-Wheel Drive,Premium,Audi,R8 Spyder RWD,Automatic,16.8667,29.2427,Coupe,2023
+10,5.2,Rear-Wheel Drive,Premium,Audi,R8 GT RWD,Automatic,18.3,29.5,Coupe,2023
+4,2,Rear-Wheel Drive,Premium,BMW,Z4 sDrive30i,Automatic,32.3,47.6,Coupe,2023
+6,3,Rear-Wheel Drive,Premium,BMW,Z4 M40i,Automatic,29,45.1,Coupe,2023
+4,2,Rear-Wheel Drive,Premium,BMW,Z4 sDrive30i,Automatic,32.3,47.6,Coupe,2024
+6,3,Rear-Wheel Drive,Premium,BMW,Z4 M40i,Automatic,29,45.1,Coupe,2024
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG SL43,Automatic,26.1,37.9,Coupe,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG SL43,Automatic,24.8,38.3,Coupe,2024
+4,2,Rear-Wheel Drive,Premium,BMW,Z4 sDrive30i,Automatic,32.3,47.6,Coupe,2025
+6,3,Rear-Wheel Drive,Premium,BMW,Z4 M40i,Automatic,29,42.1,Coupe,2025
+6,3,Rear-Wheel Drive,Premium,BMW,Z4 M40i,Automatic,23.5,37.4,Coupe,2025
+6,3,Rear-Wheel Drive,Premium,BMW,740i,Automatic,27.4401,41.9643,Large,2020
+6,3,All-Wheel Drive,Premium,BMW,740i xDrive,Automatic,24.6213,39.2862,Large,2020
+8,4.4,All-Wheel Drive,Premium,BMW,750i xDrive,Automatic,21,34.5,Large,2020
+12,6.6,All-Wheel Drive,Premium,BMW,M760i xDrive,Automatic,16.2,27.3,Large,2020
+6,3,All-Wheel Drive,Hybrid,BMW,745e xDrive,Automatic,26.5,37.2,Large,2020
+4,2,All-Wheel Drive,Premium,BMW,X1 xDrive28i,Automatic,29.2586,43.8271,Large,2020
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina B7,Automatic,20.9662,34.4201,Large,2020
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,S450,Automatic,23.5,39.7,Large,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,S450 4matic,Automatic,23.1,39.5,Large,2020
+4,2,Front-Wheel Drive,Premium,BMW,X1 sDrive28i,Automatic,30.8266,46.9568,Large,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,S560,Automatic,21.2,38.9,Large,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG S63 4matic Plus,Automatic,20.8,37.4,Large,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,S560 4matic,Automatic,21.7,38.6,Large,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,S560 4matic Maybach,Automatic,20.4,35.2,Large,2020
+8,4,All-Wheel Drive,Premium,Audi,S8,Automatic,17.2,29.9,Large,2020
+8,4,All-Wheel Drive,Premium,Audi,A8 L,Automatic,20,31.6,Large,2020
+6,3,All-Wheel Drive,Premium,Audi,A8 L,Automatic,23.2,38.3,Large,2020
+12,6,Rear-Wheel Drive,Premium,Mercedes-Benz,Maybach S650,Automatic,16.1,27.7,Large,2020
+12,6,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG S65,Automatic,15.5,28.4,Large,2020
+6,3,All-Wheel Drive,Hybrid,Audi,A8 L,Automatic,26,38.5,Large,2020
+6,3,Rear-Wheel Drive,Hybrid,Mercedes-Benz,S560e,Automatic,28.7,41,Large,2020
+8,4.4,All-Wheel Drive,Premium,BMW,750i xDrive,Automatic,20.6316,34.1278,Large,2021
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina B7,Automatic,20.6316,34.1278,Large,2021
+12,6.6,All-Wheel Drive,Premium,BMW,M760i xDrive,Automatic,16.2,27.3,Large,2021
+6,3,All-Wheel Drive,Hybrid,BMW,745e xDrive,Automatic,26.5,37.2,Large,2021
+6,3,All-Wheel Drive,Premium,BMW,740i xDrive,Automatic,25.6963,38.0686,Large,2021
+6,3,All-Wheel Drive,Premium,Audi,A8 L,Automatic,23.2,38.3,Large,2021
+6,3,Rear-Wheel Drive,Premium,BMW,740i,Automatic,27.9716,40.7749,Large,2021
+4,2,All-Wheel Drive,Premium,BMW,X1 xDrive28i,Automatic,29.2586,43.8271,Large,2021
+4,2,Front-Wheel Drive,Premium,BMW,X1 sDrive28i,Automatic,30.8266,46.9568,Large,2021
+8,4,All-Wheel Drive,Premium,Audi,A8 L,Automatic,20,31.6,Large,2021
+8,4,All-Wheel Drive,Premium,Audi,S8,Automatic,17.2,29.9,Large,2021
+6,3,All-Wheel Drive,Hybrid,Audi,A8 L,Automatic,26.4,36,Large,2021
+8,4.4,All-Wheel Drive,Premium,BMW,750i xDrive Sedan,Automatic,20.772,34.2264,Large,2022
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina B7 xDrive,Automatic,20.772,34.2264,Large,2022
+6,3,Rear-Wheel Drive,Premium,BMW,740i Sedan,Automatic,27.9623,40.8062,Large,2022
+6,3,All-Wheel Drive,Premium,BMW,740i xDrive Sedan,Automatic,25.626,38.4368,Large,2022
+12,6.6,All-Wheel Drive,Premium,BMW,M760i xDrive Sedan,Automatic,16.2,27.3,Large,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,S500 4matic,Automatic,25.9,42,Large,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,S580 4matic Maybach,Automatic,19.7,34.1,Large,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,S580 4matic,Automatic,20.7,34.9,Large,2021
+6,3,4-Wheel Drive,Premium,Audi,A8 L quattro,Automatic,23.7,39.8,Large,2022
+8,4,All-Wheel Drive,Premium,Audi,S8,Automatic,17.4,31,Large,2022
+4,2,All-Wheel Drive,Premium,BMW,X1 xDrive28i,Automatic,29.1588,43.998,Large,2022
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,S500 4matic,Automatic,26,42.2,Large,2022
+0,0,Rear-Wheel Drive,Electricity,Mercedes-Benz,EQS 450 Plus,Automatic,138,138.1,Large,2022
+4,2,Front-Wheel Drive,Premium,BMW,X1 sDrive28i,Automatic,31.1993,47.2458,Large,2022
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,S580 4matic Maybach,Automatic,19,33.7,Large,2022
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,S580 4matic,Automatic,20.4,34.8,Large,2022
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQS 580 4matic,Automatic,124.5,134.4,Large,2022
+6,3,All-Wheel Drive,Hybrid,BMW,745e xDrive,Automatic,26.5,37.2,Large,2022
+12,6,All-Wheel Drive,Premium,Mercedes-Benz,Maybach S680 4matic,Automatic,14.7,28.5,Large,2022
+6,3,All-Wheel Drive,Premium,Audi,A8 L,Automatic,23.7,39.8,Large,2023
+6,3,Rear-Wheel Drive,Premium,BMW,740i Sedan,Automatic,31.8072,43.8319,Large,2023
+8,4.4,All-Wheel Drive,Premium,BMW,760i xDrive Sedan,Automatic,22.5959,36.2993,Large,2023
+8,4,All-Wheel Drive,Premium,Audi,S8,Automatic,19.3,32.1972,Large,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,S500 4matic,Automatic,24.6996,39.8469,Large,2023
+0,0,All-Wheel Drive,Electricity,BMW,i7 xDrive60 Sedan (19 inch wheels),Automatic,122.4,128.3,Large,2023
+0,0,All-Wheel Drive,Electricity,BMW,i7 xDrive60 Sedan (20 inch wheels),Automatic,113.5,119.5,Large,2023
+0,0,All-Wheel Drive,Electricity,BMW,i7 xDrive60 Sedan (21 inch wheels),Automatic,119.5,124.6,Large,2023
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQS 450 4matic,Automatic,141.2,147,Large,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,S580 4matic Maybach,Automatic,18.3,34.5,Large,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,S580 4matic,Automatic,20.4,34.8,Large,2023
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,AMG EQS 4matic Plus,Automatic,108.2,111.1,Large,2022
+12,6,All-Wheel Drive,Premium,Mercedes-Benz,Maybach S680 4matic,Automatic,14,28.2,Large,2023
+6,3,Rear-Wheel Drive,Premium,BMW,740i Sedan,Automatic,32.5867,45.1937,Large,2024
+8,4.4,All-Wheel Drive,Premium,BMW,760i xDrive Sedan,Automatic,22.0594,35.6786,Large,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i7 eDrive50 Sedan (19 inch Wheels),Automatic,120.9,133,Large,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i7 eDrive50 Sedan (20 inch Wheels),Automatic,116.5,126.4,Large,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i7 eDrive50 Sedan (21 inch Wheels),Automatic,119.9,128.5,Large,2024
+0,0,All-Wheel Drive,Electricity,BMW,i7 M70 xDrive Sedan (20 inch Wheels),Automatic,103.1,112.2,Large,2024
+0,0,All-Wheel Drive,Electricity,BMW,i7 M70 xDrive Sedan (21 inch Wheels),Automatic,109.8,118.2,Large,2024
+0,0,4-Wheel Drive,Electricity,BMW,i7 xDrive60 Sedan (19 inch wheels),Automatic,122.6,130.9,Large,2024
+0,0,4-Wheel Drive,Electricity,BMW,i7 xDrive60 Sedan (20 inch wheels),Automatic,115.1,122.1,Large,2024
+0,0,4-Wheel Drive,Electricity,BMW,i7 xDrive60 Sedan (21 inch wheels),Automatic,121.4,127.8,Large,2024
+6,3,All-Wheel Drive,Premium,Audi,A8 quattro,Automatic,23.8,38,Large,2024
+8,4,All-Wheel Drive,Premium,Audi,S8,Automatic,19.1467,32.8,Large,2024
+6,3,All-Wheel Drive,Premium,BMW,740i xDrive Sedan,Automatic,31.4183,44.1456,Large,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,S580 4matic Maybach,Automatic,22.2,37.3,Large,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,S580 4matic,Automatic,22.6,38.7,Large,2024
+6,3,All-Wheel Drive,Hybrid,Mercedes-Benz,S580e 4matic,Automatic,25.9,40.6,Large,2023
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,AMG EQS 4matic Plus,Automatic,110.9,119.2,Large,2024
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQS 450 4matic,Automatic,126.3,133.3,Large,2024
+0,0,Rear-Wheel Drive,Electricity,Mercedes-Benz,EQS 450 Plus,Automatic,135.9,140.4,Large,2024
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQS 580 4matic,Automatic,130.6,135,Large,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,S500 4matic,Automatic,26.6,44.1,Large,2024
+12,6,All-Wheel Drive,Premium,Mercedes-Benz,Maybach S680 4matic,Automatic,14.5361,27.9,Large,2024
+4,2,All-Wheel Drive,Premium,BMW,X2 xDrive28i,Automatic,30.5865,44.6166,Midsize,2020
+4,2,Front-Wheel Drive,Premium,BMW,X2 sDrive28i,Automatic,30.5124,45.6581,Midsize,2020
+4,2,All-Wheel Drive,Premium,BMW,X2 M35i,Automatic,30.1258,43.4857,Midsize,2020
+4,2,Rear-Wheel Drive,Premium,BMW,530i,Automatic,32.3936,47.2701,Midsize,2020
+4,2,All-Wheel Drive,Premium,BMW,530i xDrive,Automatic,30.3982,45.1925,Midsize,2020
+6,3,All-Wheel Drive,Premium,BMW,540i xDrive,Automatic,27.7707,41.4634,Midsize,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M550i xDrive,Automatic,21.8908,35.7629,Midsize,2020
+6,3,Rear-Wheel Drive,Premium,BMW,840i Gran Coupe,Automatic,27.6158,41.4033,Midsize,2020
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Gran Coupe,Automatic,25.6903,37.5,Midsize,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Gran Coupe,Automatic,20.9662,34.4201,Midsize,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus,Automatic,27.1,40.4,Midsize,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic,Automatic,25,39.3,Midsize,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,E350,Automatic,29.3,46.2,Midsize,2020
+4,2,All-Wheel Drive,Premium,Audi,A6 quattro,Automatic,31,45.7,Midsize,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M5,Automatic,18.0796,29.7957,Midsize,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M5 Competition,Automatic,18.0796,29.7957,Midsize,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Gran Coupe,Automatic,18.0796,29.7957,Midsize,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,E350 4matic,Automatic,27.7,43.5,Midsize,2020
+6,3,Rear-Wheel Drive,Premium,BMW,540i,Automatic,28.5,43.6588,Midsize,2020
+6,3,All-Wheel Drive,Premium,Audi,S5 Sportback,Automatic,25.2451,37.656,Midsize,2020
+6,2.9,All-Wheel Drive,Premium,Audi,S6,Automatic,24,37.5,Midsize,2020
+6,2.9,All-Wheel Drive,Premium,Audi,S7,Automatic,24,37.5,Midsize,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Gran Coupe,Automatic,18.0796,29.7957,Midsize,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG E63 S 4matic Plus,Automatic,18.2,31.7,Midsize,2020
+6,3,All-Wheel Drive,Premium,Audi,A6 quattro,Automatic,28.0412,41.2224,Midsize,2020
+6,3,All-Wheel Drive,Premium,Audi,A7 quattro,Automatic,28.0412,41.2224,Midsize,2020
+4,2,All-Wheel Drive,Premium,Audi,A5 Sportback quattro,Automatic,29.851,45.7135,Midsize,2020
+6,2.9,All-Wheel Drive,Premium,Audi,S7,Automatic,24,37.5,Midsize,2021
+6,2.9,All-Wheel Drive,Premium,Audi,S6,Automatic,24,37.5,Midsize,2021
+6,3,All-Wheel Drive,Premium,Audi,A6 quattro,Automatic,28.0412,41.2224,Midsize,2021
+6,3,All-Wheel Drive,Premium,Audi,A7 quattro,Automatic,28.0412,41.2224,Midsize,2021
+6,2.9,All-Wheel Drive,Premium,Audi,RS 5 Sportback,Automatic,22.1,35.4,Midsize,2021
+4,2,Rear-Wheel Drive,Premium,BMW,530i,Automatic,32.1207,48.1597,Midsize,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M550i xDrive,Automatic,21.7456,34.4951,Midsize,2021
+4,2,All-Wheel Drive,Premium,BMW,X2 xDrive28i,Automatic,30.7529,45.031,Midsize,2021
+4,2,All-Wheel Drive,Premium,BMW,X2 M35i,Automatic,30.078,43.3696,Midsize,2021
+4,2,All-Wheel Drive,Premium,BMW,530i xDrive,Automatic,30.0665,45.8771,Midsize,2021
+6,3,All-Wheel Drive,Premium,BMW,540i xDrive,Automatic,29.6326,44.6767,Midsize,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M5,Automatic,18.0845,29.6466,Midsize,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M5 Competition,Automatic,18.0845,29.6466,Midsize,2021
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Gran Coupe,Automatic,25.6963,38.0686,Midsize,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Gran Coupe,Automatic,18.0845,29.6466,Midsize,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Gran Coupe,Automatic,18.0845,29.6466,Midsize,2021
+6,3,All-Wheel Drive,Premium,Audi,S5 Sportback,Automatic,25.8666,39.6776,Midsize,2021
+8,4,All-Wheel Drive,Premium,Audi,RS 7,Automatic,19.2,30.2,Midsize,2021
+6,3,Rear-Wheel Drive,Premium,BMW,540i,Automatic,31.8,45.7,Midsize,2021
+6,3,Rear-Wheel Drive,Premium,BMW,840i Gran Coupe,Automatic,27.9716,40.7749,Midsize,2021
+4,2,Front-Wheel Drive,Premium,BMW,X2 sDrive28i,Automatic,30.4632,45.5892,Midsize,2021
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,E350,Automatic,28.1,45.1,Midsize,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,E350 4matic,Automatic,27.9,43.4,Midsize,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Gran Coupe,Automatic,20.8714,34.1672,Midsize,2021
+4,2,All-Wheel Drive,Premium,Audi,A6 quattro,Automatic,29.4676,43.83,Midsize,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic,Automatic,28.9,43.4,Midsize,2021
+4,2,All-Wheel Drive,Hybrid,Audi,A7 quattro,Automatic,34.6,45.5,Midsize,2021
+4,2,All-Wheel Drive,Premium,Audi,A5 Sportback S line quattro,Automatic,30.9018,44.183,Midsize,2021
+4,2,All-Wheel Drive,Premium,Audi,A5 Sportback quattro,Automatic,32.5601,48.8284,Midsize,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus,Automatic,28.1,41,Midsize,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG E63 S 4matic Plus,Automatic,19.4,32.6,Midsize,2021
+4,2,All-Wheel Drive,Premium,BMW,X2 xDrive28i,Automatic,30.7529,45.031,Midsize,2022
+4,2,All-Wheel Drive,Premium,BMW,X2 M35i,Automatic,30.078,43.3696,Midsize,2022
+8,4.4,All-Wheel Drive,Premium,BMW,M5 CS Sedan,Automatic,17.907,29.3812,Midsize,2022
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Gran Coupe,Automatic,17.907,29.3812,Midsize,2022
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Gran Coupe,Automatic,20.772,34.2264,Midsize,2022
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina B8 Gran Coupe,Automatic,20.772,34.2264,Midsize,2022
+4,2,Front-Wheel Drive,Premium,BMW,X2 sDrive28i,Automatic,30.4632,45.5892,Midsize,2022
+6,3,Rear-Wheel Drive,Premium,BMW,840i Gran Coupe,Automatic,27.9623,40.8062,Midsize,2022
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Gran Coupe,Automatic,25.626,38.4368,Midsize,2022
+4,2,All-Wheel Drive,Premium,Audi,A5 Sportback quattro,Automatic,33.3267,49.0024,Midsize,2022
+4,2,All-Wheel Drive,Premium,Audi,A6 quattro,Automatic,29.2,45.5,Midsize,2022
+4,2,All-Wheel Drive,Premium,Audi,A5 Sportback S line quattro,Automatic,30.8498,44.2667,Midsize,2022
+8,4,All-Wheel Drive,Premium,Audi,RS 7,Automatic,19.2,30.2,Midsize,2022
+6,2.9,4-Wheel Drive,Premium,Audi,RS 5 Sportback,Automatic,22.1,35.3,Midsize,2022
+6,3,4-Wheel Drive,Premium,Audi,S5 Sportback,Automatic,26.6615,39.7738,Midsize,2022
+6,3,4-Wheel Drive,Premium,Audi,A6 quattro,Automatic,27,42,Midsize,2022
+6,3,4-Wheel Drive,Premium,Audi,A7 quattro,Automatic,27,42,Midsize,2022
+4,2,All-Wheel Drive,Hybrid,Audi,A7 TFSI e quattro,Automatic,32.3,43.7,Midsize,2022
+6,2.9,4-Wheel Drive,Premium,Audi,S6,Automatic,24.3,37.1,Midsize,2022
+6,2.9,4-Wheel Drive,Premium,Audi,S7,Automatic,24.3,37.1,Midsize,2022
+4,2,Rear-Wheel Drive,Premium,BMW,530i Sedan,Automatic,32.1347,48.237,Midsize,2022
+6,3,All-Wheel Drive,Premium,BMW,540i xDrive Sedan,Automatic,28.6,41.4,Midsize,2022
+8,4.4,All-Wheel Drive,Premium,BMW,M550i xDrive Sedan,Automatic,21.429,35.3842,Midsize,2022
+8,4.4,All-Wheel Drive,Premium,BMW,M5 Sedan,Automatic,17.9124,29.3537,Midsize,2022
+8,4.4,All-Wheel Drive,Premium,BMW,M5 Competition Sedan,Automatic,17.9124,29.3537,Midsize,2022
+4,2,All-Wheel Drive,Premium,BMW,530i xDrive Sedan,Automatic,29.9197,45.368,Midsize,2022
+6,3,Rear-Wheel Drive,Premium,BMW,540i Sedan,Automatic,31.8,45.7,Midsize,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic,Automatic,28.9,43,Midsize,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,E350 4matic,Automatic,26.9,42.3,Midsize,2022
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,E350,Automatic,29,44.7,Midsize,2022
+0,0,All-Wheel Drive,Electricity,Audi,e-tron GT,Automatic,113.2,116.3,Midsize,2022
+0,0,All-Wheel Drive,Electricity,Audi,RS e-tron GT,Automatic,111.7,115.3,Midsize,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus,Automatic,26.5,40.6,Midsize,2022
+4,2,All-Wheel Drive,Premium,BMW,X2 M35i,Automatic,30.5245,44.4629,Midsize,2023
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Gran Coupe,Automatic,20.8215,33.217,Midsize,2023
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina B8 Gran Coupe,Automatic,20.8215,33.217,Midsize,2023
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Gran Coupe,Automatic,18.0803,29.9272,Midsize,2023
+4,2,All-Wheel Drive,Premium,BMW,X2 xDrive28i,Automatic,30.5245,44.4629,Midsize,2023
+4,2,Front-Wheel Drive,Premium,BMW,X2 sDrive28i,Automatic,30.5594,45.7238,Midsize,2023
+6,3,Rear-Wheel Drive,Premium,BMW,840i Gran Coupe,Automatic,26.2872,40.7959,Midsize,2023
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Gran Coupe,Automatic,26.2538,40.8062,Midsize,2023
+6,3,4-Wheel Drive,Premium,Audi,S5 Sportback,Automatic,26.6609,39.7856,Midsize,2023
+6,2.9,4-Wheel Drive,Premium,Audi,RS 5 Sportback,Automatic,21.5497,34.7736,Midsize,2023
+4,2,Rear-Wheel Drive,Premium,BMW,530i Sedan,Automatic,32.1779,48.4765,Midsize,2023
+4,2,All-Wheel Drive,Premium,BMW,530i xDrive Sedan,Automatic,29.9395,45.4362,Midsize,2023
+6,3,All-Wheel Drive,Premium,BMW,540i xDrive Sedan,Automatic,28.6,41.4,Midsize,2023
+8,4.4,All-Wheel Drive,Premium,BMW,M550i xDrive Sedan,Automatic,21,34.721,Midsize,2023
+8,4.4,All-Wheel Drive,Premium,BMW,M5 Sedan,Automatic,18.0229,29.5467,Midsize,2023
+8,4.4,All-Wheel Drive,Premium,BMW,M5 Competition Sedan,Automatic,18.0229,29.5467,Midsize,2023
+8,4,All-Wheel Drive,Premium,Audi,RS 7,Automatic,18.4237,28.9915,Midsize,2023
+4,2,All-Wheel Drive,Premium,Audi,A6 quattro,Automatic,30,45.2,Midsize,2023
+6,3,All-Wheel Drive,Premium,Audi,A7,Automatic,27,42,Midsize,2023
+6,3,All-Wheel Drive,Premium,Audi,A6 quattro,Automatic,27,42,Midsize,2023
+4,2,All-Wheel Drive,Premium,Audi,A5 Sportback S-Line quattro,Automatic,31.2409,45.2772,Midsize,2023
+4,2,All-Wheel Drive,Premium,Audi,A5 Sportback quattro,Automatic,30.9654,48.2734,Midsize,2023
+6,2.9,All-Wheel Drive,Premium,Audi,S6,Automatic,24,36.9,Midsize,2023
+6,2.9,All-Wheel Drive,Premium,Audi,S7,Automatic,24,36.9,Midsize,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,E350,Automatic,29,44.7,Midsize,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,E350 4matic,Automatic,26.9,42.3,Midsize,2023
+0,0,All-Wheel Drive,Electricity,Audi,e-tron GT,Automatic,113.2,116.3,Midsize,2023
+0,0,All-Wheel Drive,Electricity,Audi,RS e-tron GT,Automatic,111.7,115.3,Midsize,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,E450 4matic,Automatic,29.1,44.9406,Midsize,2023
+6,3,Rear-Wheel Drive,Premium,BMW,540i Sedan,Automatic,31.8,45.7,Midsize,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus,Automatic,27.2941,41.5913,Midsize,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG E63 S 4matic Plus,Automatic,19.8,33.2,Midsize,2023
+6,3,Rear-Wheel Drive,Premium,BMW,840i Gran Coupe,Automatic,26.2759,40.7815,Midsize,2024
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Gran Coupe,Automatic,26.2455,40.7952,Midsize,2024
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Gran Coupe,Automatic,20.7891,33.2243,Midsize,2024
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina B8 Gran Coupe,Automatic,20.7891,33.2243,Midsize,2024
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Gran Coupe,Automatic,18.0898,29.9136,Midsize,2024
+4,2,All-Wheel Drive,Premium,Audi,A5 Sportback quattro,Automatic,32.4826,49.7014,Midsize,2024
+6,2.9,All-Wheel Drive,Premium,Audi,RS 5 Sportback,Automatic,21.7986,34.1249,Midsize,2024
+0,0,All-Wheel Drive,Electricity,Audi,e-tron GT,Automatic,120.7182,120.4279,Midsize,2024
+0,0,All-Wheel Drive,Electricity,Audi,RS e-tron GT,Automatic,120.7182,120.4279,Midsize,2024
+4,2,All-Wheel Drive,Premium,Audi,A5 Sportback S line quattro,Automatic,29.9747,45.6356,Midsize,2024
+4,2,All-Wheel Drive,Premium,Audi,A6 quattro,Automatic,28.7,46.1,Midsize,2024
+6,3,All-Wheel Drive,Premium,Audi,S5 Sportback,Automatic,25.2,40.8,Midsize,2024
+6,3,All-Wheel Drive,Premium,Audi,A7 quattro,Automatic,27.6548,42.6608,Midsize,2024
+6,3,All-Wheel Drive,Premium,Audi,A6 quattro,Automatic,27.6548,42.6608,Midsize,2024
+8,4,All-Wheel Drive,Premium,Audi,RS 7,Automatic,17.5566,28.402,Midsize,2024
+6,2.9,All-Wheel Drive,Premium,Audi,S6,Automatic,23.8192,37.2809,Midsize,2024
+6,2.9,All-Wheel Drive,Premium,Audi,S7,Automatic,23.8192,37.2809,Midsize,2024
+4,2,Rear-Wheel Drive,Premium,BMW,530i Sedan,Automatic,35.1206,50.3234,Midsize,2024
+4,2,All-Wheel Drive,Premium,BMW,530i xDrive Sedan,Automatic,35.1191,50.2553,Midsize,2024
+6,3,All-Wheel Drive,Premium,BMW,540i xDrive Sedan,Automatic,33.3737,47.1719,Midsize,2024
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,AMG EQE 4matic Plus,Automatic,99.3,100.8,Midsize,2024
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQE 350 4matic,Automatic,121.9,136.7,Midsize,2024
+0,0,Rear-Wheel Drive,Electricity,Mercedes-Benz,EQE 350 Plus,Automatic,141.4,136.1,Midsize,2024
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQE 500 4matic,Automatic,141.4,136.1,Midsize,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,E450 4matic,Automatic,27.7,44.1,Midsize,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,E350 4matic,Automatic,30.6,47.9,Midsize,2024
+6,3,Rear-Wheel Drive,Premium,BMW,840i Gran Coupe,Automatic,26.808,41.4573,Midsize,2025
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Gran Coupe,Automatic,26.2746,40.8339,Midsize,2025
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Gran Coupe,Automatic,20.66,33.3524,Midsize,2025
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina B8 Gran Coupe,Automatic,20.66,33.3524,Midsize,2025
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Gran Coupe,Automatic,18.0751,29.9136,Midsize,2025
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG SL63 4matic Plus,Automatic,16.9,28.9,Minicompact,2022
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG SL55 4matic Plus,Automatic,16.9,28.9,Minicompact,2022
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG SL63 4matic Plus,Automatic,16.6,30.1,Minicompact,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG SL55 4matic Plus,Automatic,16.1,29,Minicompact,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG SL63 4matic Plus,Automatic,17,28.8,Minicompact,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG SL55 4matic Plus,Automatic,17,28.8,Minicompact,2024
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (Passenger Van),Automatic,25.2,34.7,SPV,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (Cargo Van),Automatic,26.9,35.9,SPV,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,"Metris (Cargo Van, LWB)",Automatic,26.9,36.1,SPV,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (Passenger Van),Automatic,24.1,34.6,SPV,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (Cargo Van),Automatic,25.5,35.6,SPV,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,"Metris (Cargo Van, LWB)",Automatic,25.8,35.7,SPV,2020
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,GLA250,Automatic,31.9,49.6,SPV,2021
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,GLB250,Automatic,29.9,45,SPV,2021
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (Passenger Van),Automatic,23.4,33.5,SPV,2021
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (Cargo Van),Automatic,24.5,34.9,SPV,2021
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,"Metris (Cargo Van, LWB)",Automatic,24.5,34.9,SPV,2021
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,GLA250,Automatic,30.8,49.1,SPV,2022
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,GLB250,Automatic,30.3,46.3,SPV,2022
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (Passenger Van),Automatic,23.2,34.4,SPV,2022
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (Cargo Van),Automatic,24.6,34.8,SPV,2022
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,"Metris (Cargo Van, LWB)",Automatic,24.6,34.8,SPV,2022
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (US Postal Long),Automatic,24.7,34.8,SPV,2022
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (US Postal),Automatic,24.7,34.8,SPV,2022
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,GLA250,Automatic,30.8,49.1,SPV,2023
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,GLB250,Automatic,30.3,46.3,SPV,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (US Postal Long),Automatic,24.1,34.5,SPV,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (US Postal),Automatic,24.1,34.5,SPV,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (Passenger Van),Automatic,23.3,33.7,SPV,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,Metris (Cargo Van),Automatic,24.5,35,SPV,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,"Metris (Cargo Van, LWB)",Automatic,24.5,35,SPV,2023
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,GLA250,Automatic,32.5,49.3,SPV,2024
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,GLB250,Automatic,31.7,48.4,SPV,2024
+4,2,Rear-Wheel Drive,Premium,BMW,230i Coupe,Automatic,31.4402,45.9272,Subcompact,2020
+4,2,Rear-Wheel Drive,Premium,BMW,230i Coupe,Automatic,26.6908,46.5078,Subcompact,2020
+4,2,All-Wheel Drive,Premium,BMW,230i xDrive Coupe,Automatic,26.5245,43.9223,Subcompact,2020
+4,2,Rear-Wheel Drive,Premium,BMW,230i Convertible,Automatic,29.6733,49.5795,Subcompact,2020
+4,2,All-Wheel Drive,Premium,BMW,230i xDrive Convertible,Automatic,26.5245,43.9223,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Coupe M Performance,Automatic,28.1716,42.5641,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Coupe M Performance,Automatic,23.3119,38.5195,Subcompact,2020
+6,3,All-Wheel Drive,Premium,BMW,M240i xDrive Coupe M Performance,Automatic,27.6511,43.183,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Coupe,Automatic,28.1716,42.5641,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Coupe,Automatic,23.3119,38.5195,Subcompact,2020
+6,3,All-Wheel Drive,Premium,BMW,M240i xDrive Coupe,Automatic,27.6511,43.183,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Convertible,Automatic,28.1716,42.5641,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Convertible,Automatic,23.3119,38.5195,Subcompact,2020
+6,3,All-Wheel Drive,Premium,BMW,M240i xDrive Convertible,Automatic,27.6511,43.183,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M2 Competition Coupe,Automatic,21.9429,34.6144,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M2 Competition Coupe,Automatic,20.5456,31.6463,Subcompact,2020
+4,2,Rear-Wheel Drive,Premium,BMW,430i Convertible,Automatic,29.6733,49.5795,Subcompact,2020
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Convertible,Automatic,28.1541,46.4226,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,440i Convertible,Automatic,27.4401,41.9643,Subcompact,2020
+6,3,All-Wheel Drive,Premium,BMW,440i xDrive Convertible,Automatic,24.6213,39.2862,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Convertible,Automatic,21.1878,35.0359,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Convertible,Automatic,20.1444,31.1733,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Convertible Competition,Automatic,21.1878,35.0359,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Convertible Competition,Automatic,20.1444,31.1733,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,840i Coupe,Automatic,29.1,42.7,Subcompact,2020
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Coupe,Automatic,26.4,38.2,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,840i Convertible,Automatic,27.6158,41.4033,Subcompact,2020
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Convertible,Automatic,25.6903,37.5,Subcompact,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Coupe,Automatic,21.8908,35.7629,Subcompact,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Convertible,Automatic,20.9662,34.4201,Subcompact,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus Coupe,Automatic,26.3,39.2,Subcompact,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus Convertible,Automatic,25.7,36.8,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,E450 Coupe,Automatic,25.1,40.1,Subcompact,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic Coupe,Automatic,23.9,37.3,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,E450 Convertible,Automatic,25.1,38.9,Subcompact,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic Convertible,Automatic,24.1,37.1,Subcompact,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300 Coupe,Automatic,27.7,44.6,Subcompact,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,C300 4matic Coupe,Automatic,27.1477,43.6495,Subcompact,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,C300 4matic Convertible,Automatic,26.1996,41.5485,Subcompact,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300 Convertible,Automatic,26.5996,40.9485,Subcompact,2020
+4,2,All-Wheel Drive,Regular,Audi,A3 quattro,Automatic,27.4725,42.5,Subcompact,2020
+4,2,All-Wheel Drive,Regular,Audi,A3 Cabriolet quattro,Automatic,27.4725,42.5,Subcompact,2020
+4,2,All-Wheel Drive,Regular,Audi,TT Coupe quattro,Automatic,28.3069,42.4085,Subcompact,2020
+4,2,All-Wheel Drive,Premium,Audi,S3,Automatic,27,40.9,Subcompact,2020
+4,2,All-Wheel Drive,Premium,Audi,TTS Coupe,Automatic,28.5,39.8,Subcompact,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Coupe,Automatic,18.0796,29.7957,Subcompact,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Coupe,Automatic,18.0796,29.7957,Subcompact,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Convertible,Automatic,18.0796,29.7957,Subcompact,2020
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Convertible,Automatic,18.0796,29.7957,Subcompact,2020
+4,2,Front-Wheel Drive,Regular,Audi,A3,Automatic,32.9,50.3,Subcompact,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,A220 4matic,Automatic,30.8,48.7,Subcompact,2020
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,A220,Automatic,31.5,51.4,Subcompact,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,S560 Convertible,Automatic,21.3,36.6,Subcompact,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG S63 4matic Plus Convertible,Automatic,18.4,33.8,Subcompact,2020
+6,3,All-Wheel Drive,Premium,Audi,S5,Automatic,25.2451,37.656,Subcompact,2020
+6,3,All-Wheel Drive,Premium,Audi,S5 Cabriolet,Automatic,24.4,36.6,Subcompact,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 S Convertible,Automatic,21.2,34.3,Subcompact,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 Convertible,Automatic,21.2,34.3,Subcompact,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 S Coupe,Automatic,21.2,36.2,Subcompact,2020
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 Coupe,Automatic,21.2,36.2,Subcompact,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic Coupe,Automatic,23.6,38,Subcompact,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic Convertible,Automatic,23.2,35.8,Subcompact,2020
+5,2.5,All-Wheel Drive,Premium,Audi,RS3,Automatic,23.8,37.9,Subcompact,2020
+5,2.5,All-Wheel Drive,Premium,Audi,TT RS,Automatic,23.7,38.7,Subcompact,2020
+4,2,All-Wheel Drive,Premium,Audi,A5 quattro,Automatic,29.851,45.7135,Subcompact,2020
+4,2,All-Wheel Drive,Premium,Audi,A5 Cabriolet quattro,Automatic,29.7957,43.535,Subcompact,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,AMG A35 4matic,Automatic,30.4,44.9,Subcompact,2020
+0,0,Rear-Wheel Drive,Electricity,BMW,i3,Automatic,177.7,145.5,Subcompact,2020
+0,0,Rear-Wheel Drive,Electricity,BMW,i3s,Automatic,177.7,145.5,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M2 CS Coupe,Automatic,21.2385,33.2675,Subcompact,2020
+6,3,Rear-Wheel Drive,Premium,BMW,M2 CS Coupe,Automatic,20.4167,31.5099,Subcompact,2020
+6,2.9,All-Wheel Drive,Premium,Audi,RS 5,Automatic,21.7,33.9,Subcompact,2021
+4,2,All-Wheel Drive,Premium,BMW,230i xDrive Coupe,Automatic,26.3889,43.0301,Subcompact,2021
+4,2,Rear-Wheel Drive,Premium,BMW,230i Coupe,Automatic,26.6908,46.5078,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Coupe,Automatic,26.6566,42.4156,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Coupe,Automatic,23.2446,37.8153,Subcompact,2021
+6,3,All-Wheel Drive,Premium,BMW,M240i xDrive Coupe,Automatic,26.4954,42.9977,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Convertible,Automatic,26.6566,42.4156,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Convertible,Automatic,23.2446,37.8153,Subcompact,2021
+6,3,All-Wheel Drive,Premium,BMW,M240i xDrive Convertible,Automatic,26.4954,42.9977,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M2 Competition Coupe,Automatic,21.9959,34.3,Subcompact,2021
+4,2,Rear-Wheel Drive,Premium,BMW,230i Convertible,Automatic,29.8205,47.3584,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M2 Competition Coupe,Automatic,20.4458,31.4317,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,840i Coupe,Automatic,29.1,42.7,Subcompact,2021
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Coupe,Automatic,25.6963,38.0686,Subcompact,2021
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Convertible,Automatic,25.6963,38.0686,Subcompact,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Convertible,Automatic,18.0845,29.6466,Subcompact,2021
+6,3,All-Wheel Drive,Premium,Audi,S5,Automatic,25.8666,39.6776,Subcompact,2021
+6,3,All-Wheel Drive,Premium,Audi,S5 Cabriolet,Automatic,25.3,37.4,Subcompact,2021
+4,2,Rear-Wheel Drive,Premium,BMW,230i Coupe,Automatic,31.8497,46.4901,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,840i Convertible,Automatic,27.9716,40.7749,Subcompact,2021
+4,2,Rear-Wheel Drive,Premium,BMW,430i Coupe,Automatic,33.1909,50.0596,Subcompact,2021
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Coupe,Automatic,30.1758,47.7749,Subcompact,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,A220 4matic,Automatic,31.7,49.7,Subcompact,2021
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,A220,Automatic,32.1,52.1,Subcompact,2021
+6,3,All-Wheel Drive,Premium,BMW,M440i xDrive Coupe,Automatic,28.531,43.9383,Subcompact,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Convertible,Automatic,20.8714,34.1672,Subcompact,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,AMG A35 4matic,Automatic,28.1,41.1,Subcompact,2021
+4,2,All-Wheel Drive,Premium,Audi,A5 quattro,Automatic,30.9018,44.183,Subcompact,2021
+4,2,All-Wheel Drive,Premium,Audi,A5 Cabriolet quattro,Automatic,28.9,43.7,Subcompact,2021
+4,2,All-Wheel Drive,Regular,Audi,TT Coupe quattro,Automatic,28.1148,42.1933,Subcompact,2021
+5,2.5,All-Wheel Drive,Premium,Audi,TT RS,Automatic,24.4,39.8,Subcompact,2021
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300 Coupe,Automatic,30.2,47.1,Subcompact,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,C300 4matic Coupe,Automatic,29.4,45.6,Subcompact,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,C300 4matic Convertible,Automatic,27.7,42.6,Subcompact,2021
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300 Convertible,Automatic,28.9,43.8,Subcompact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus Coupe,Automatic,26.6,39.4,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,E450 Coupe,Automatic,29.8,44.1,Subcompact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic Coupe,Automatic,29.1,42.4,Subcompact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus Convertible,Automatic,26.4,38,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,E450 Convertible,Automatic,29,43,Subcompact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic Convertible,Automatic,29,41.8,Subcompact,2021
+4,2,All-Wheel Drive,Premium,Audi,TTS Coupe,Automatic,28.5,39.8,Subcompact,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 S Convertible,Automatic,21.1,34.5,Subcompact,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 Convertible,Automatic,21.1,34.5,Subcompact,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 S Coupe,Automatic,21.4,36.5,Subcompact,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 Coupe,Automatic,21.4,36.5,Subcompact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic Coupe,Automatic,23.7,37.9,Subcompact,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic Convertible,Automatic,24.1,38.2,Subcompact,2021
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,S560 Convertible,Automatic,20.2,36.8,Subcompact,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG S63 4matic Plus Convertible,Automatic,17.8,32.9,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Coupe,Automatic,19.8955,32.4972,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Competition Coupe,Automatic,20.182,32.0616,Subcompact,2021
+4,2,All-Wheel Drive,Premium,BMW,230i xDrive Convertible,Automatic,26.3889,43.0301,Subcompact,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Coupe,Automatic,21.7456,34.4951,Subcompact,2021
+0,0,Rear-Wheel Drive,Electricity,BMW,i3s,Automatic,177.7,145.5,Subcompact,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Convertible,Automatic,18.0845,29.6466,Subcompact,2021
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Coupe,Automatic,17.907,29.3812,Subcompact,2022
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Convertible,Automatic,17.907,29.3812,Subcompact,2022
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Coupe,Automatic,22.8,36.7,Subcompact,2022
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Convertible,Automatic,20.772,34.2264,Subcompact,2022
+4,2,Rear-Wheel Drive,Premium,BMW,430i Convertible,Automatic,30.3817,47.0356,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,M440i Convertible,Automatic,29.6907,44.1165,Subcompact,2021
+0,0,Rear-Wheel Drive,Electricity,BMW,i3,Automatic,177.7,145.5,Subcompact,2021
+6,3,Rear-Wheel Drive,Premium,BMW,840i Coupe,Automatic,29.1,42.7,Subcompact,2022
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Coupe,Automatic,25.626,38.4368,Subcompact,2022
+6,3,Rear-Wheel Drive,Premium,BMW,840i Convertible,Automatic,27.9623,40.8062,Subcompact,2022
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Convertible,Automatic,25.626,38.4368,Subcompact,2022
+4,2,All-Wheel Drive,Premium,Audi,A5 Coupe quattro,Automatic,30.8498,44.2667,Subcompact,2022
+4,2,All-Wheel Drive,Premium,Audi,A5 Cabriolet quattro,Automatic,28.8,43.4,Subcompact,2022
+6,2.9,4-Wheel Drive,Premium,Audi,RS 5 Coupe,Automatic,21.8,34.5,Subcompact,2022
+4,2,All-Wheel Drive,Regular,Audi,TT Coupe quattro,Automatic,28.4557,42.0083,Subcompact,2022
+6,3,4-Wheel Drive,Premium,Audi,S5 Coupe,Automatic,26.6615,39.7738,Subcompact,2022
+6,3,4-Wheel Drive,Premium,Audi,S5 Cabriolet,Automatic,25.6,37.7,Subcompact,2022
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Coupe,Automatic,30.097,47.4729,Subcompact,2022
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Convertible,Automatic,30.097,47.4729,Subcompact,2022
+6,3,Rear-Wheel Drive,Premium,BMW,M440i Coupe,Automatic,32.1889,48.8226,Subcompact,2022
+6,3,Rear-Wheel Drive,Premium,BMW,M440i Convertible,Automatic,29.1941,44.5188,Subcompact,2022
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Coupe,Automatic,19.8955,32.4972,Subcompact,2022
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Competition Coupe,Automatic,20.182,32.0616,Subcompact,2022
+6,3,All-Wheel Drive,Premium,BMW,M4 Competition M xDrive Convertible,Automatic,19.3569,31.7126,Subcompact,2022
+4,2,All-Wheel Drive,Regular,Audi,A3 quattro,Automatic,35.4,50.5,Subcompact,2022
+4,2,All-Wheel Drive,Premium,Audi,S3,Automatic,29.5,44.7,Subcompact,2022
+4,2,All-Wheel Drive,Premium,Audi,TTS Coupe quattro,Automatic,29.7,40.7,Subcompact,2022
+4,2,Front-Wheel Drive,Regular,Audi,A3,Automatic,36.9,54.2,Subcompact,2022
+4,2,Rear-Wheel Drive,Premium,BMW,230i Coupe,Automatic,33.7,50.5,Subcompact,2022
+6,3,All-Wheel Drive,Premium,BMW,M240i xDrive Coupe,Automatic,29.2076,46.8257,Subcompact,2022
+4,2,Rear-Wheel Drive,Premium,BMW,430i Coupe,Automatic,32.0246,49.2015,Subcompact,2022
+4,2,Rear-Wheel Drive,Premium,BMW,430i Convertible,Automatic,32.0246,49.2015,Subcompact,2022
+6,3,All-Wheel Drive,Premium,BMW,M440i xDrive Coupe,Automatic,29.2053,45.3931,Subcompact,2022
+6,3,All-Wheel Drive,Premium,BMW,M440i xDrive Convertible,Automatic,29.365,46.1247,Subcompact,2022
+6,3,All-Wheel Drive,Premium,BMW,M4 Competition M xDrive Coupe,Automatic,20.055,31.2954,Subcompact,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,A220 4matic,Automatic,31.9,50.3,Subcompact,2022
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,A220,Automatic,31.3,51.8,Subcompact,2022
+5,2.5,All-Wheel Drive,Premium,Audi,TT RS Coupe,Automatic,24.2,39.4,Subcompact,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG A35 4matic,Automatic,27.8,42.8,Subcompact,2022
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,E450 Coupe,Automatic,28,41.4,Subcompact,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic Coupe,Automatic,27.3,42.2,Subcompact,2022
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,E450 Convertible,Automatic,28.1,40.9,Subcompact,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic Convertible,Automatic,27.5,41.6,Subcompact,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus Coupe,Automatic,25.5,39.7,Subcompact,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus Convertible,Automatic,24.8,37.5,Subcompact,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,C300 4matic Coupe,Automatic,28.1,44.5,Subcompact,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,C300 4matic Convertible,Automatic,27.3,43.2,Subcompact,2022
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300 Convertible,Automatic,26.5,41.4,Subcompact,2022
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic Coupe,Automatic,23.5,39.1,Subcompact,2022
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic Convertible,Automatic,23.7,39.6,Subcompact,2022
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300 Coupe,Automatic,28.1,44.5,Subcompact,2022
+0,0,All-Wheel Drive,Electricity,BMW,i4 M50 Gran Coupe (19 inch wheels),Automatic,126.1,131.3,Subcompact,2022
+0,0,All-Wheel Drive,Electricity,BMW,i4 M50 Gran Coupe (20 inch wheels),Automatic,106.3,107.7,Subcompact,2022
+0,0,Rear-Wheel Drive,Electricity,BMW,i4 eDrive40 Gran Coupe (18 inch wheels),Automatic,156.3,154.8,Subcompact,2022
+0,0,Rear-Wheel Drive,Electricity,BMW,i4 eDrive40 Gran Coupe (19 inch wheels),Automatic,142.9,140.4,Subcompact,2022
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Coupe,Automatic,20.8455,33.2165,Subcompact,2023
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Convertible,Automatic,20.8215,33.217,Subcompact,2023
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Coupe,Automatic,18.0803,29.9272,Subcompact,2023
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Convertible,Automatic,18.0803,29.9272,Subcompact,2023
+5,2.5,All-Wheel Drive,Premium,Audi,RS 3,Automatic,23.9,40.3,Subcompact,2022
+6,3,Rear-Wheel Drive,Premium,BMW,840i Coupe,Automatic,26.414,40.9574,Subcompact,2023
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Coupe,Automatic,26.2568,40.8102,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,840i Convertible,Automatic,26.2872,40.7959,Subcompact,2023
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Convertible,Automatic,26.2538,40.8062,Subcompact,2023
+4,2,Front-Wheel Drive,Regular,Audi,A3,Automatic,36.9,53.4,Subcompact,2023
+4,2,All-Wheel Drive,Regular,Audi,A3 quattro,Automatic,33.8,49.2,Subcompact,2023
+4,2,All-Wheel Drive,Premium,Audi,S3,Automatic,29.1,44.1,Subcompact,2023
+6,3,4-Wheel Drive,Premium,Audi,S5 Coupe,Automatic,26.6609,39.7856,Subcompact,2023
+6,3,4-Wheel Drive,Premium,Audi,S5 Cabriolet,Automatic,25.6,37.7,Subcompact,2023
+6,2.9,4-Wheel Drive,Premium,Audi,RS 5 Coupe,Automatic,22.0469,35.5447,Subcompact,2023
+4,2,All-Wheel Drive,Regular,Audi,TT Coupe,Automatic,28.3551,41.888,Subcompact,2023
+4,2,All-Wheel Drive,Premium,Audi,TTS Coupe,Automatic,29.7,40.7,Subcompact,2023
+4,2,Rear-Wheel Drive,Premium,BMW,230i Coupe,Automatic,33.7,50.5,Subcompact,2023
+4,2,All-Wheel Drive,Premium,BMW,230i xDrive Coupe,Automatic,31.548,49.6,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Coupe,Automatic,28.5813,45.6206,Subcompact,2023
+6,3,All-Wheel Drive,Premium,BMW,M240i xDrive Coupe,Automatic,29.0242,46.0932,Subcompact,2023
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Coupe,Automatic,30.0164,47.8915,Subcompact,2023
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Convertible,Automatic,30.0164,47.8915,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M440i Coupe,Automatic,30.9466,46.4009,Subcompact,2023
+6,3,All-Wheel Drive,Premium,BMW,M440i xDrive Coupe,Automatic,27.9472,44.6001,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M440i Convertible,Automatic,29.223,44.4948,Subcompact,2023
+6,3,All-Wheel Drive,Premium,BMW,M440i xDrive Convertible,Automatic,28.2779,43.89,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Coupe,Automatic,19.8955,32.4972,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Competition Coupe,Automatic,20.182,32.0616,Subcompact,2023
+6,3,All-Wheel Drive,Premium,BMW,M4 Competition M xDrive Coupe,Automatic,20.055,31.2954,Subcompact,2023
+6,3,All-Wheel Drive,Premium,BMW,M4 Competition M xDrive Convertible,Automatic,19.3569,31.7126,Subcompact,2023
+4,2,Rear-Wheel Drive,Premium,BMW,430i Coupe,Automatic,31.876,48.9726,Subcompact,2023
+4,2,Rear-Wheel Drive,Premium,BMW,430i Convertible,Automatic,31.876,48.9726,Subcompact,2023
+4,2,All-Wheel Drive,Premium,Audi,A5 Coupe quattro,Automatic,31.2409,45.2772,Subcompact,2023
+4,2,All-Wheel Drive,Premium,Audi,A5 Cabriolet quattro,Automatic,30.1,43.9,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M4 CSL Coupe,Automatic,19.4586,31.8215,Subcompact,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300 Coupe,Automatic,28.1,44.5,Subcompact,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,C300 4matic Coupe,Automatic,28.1,44.5,Subcompact,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,C300 4matic Convertible,Automatic,27.3,43.2,Subcompact,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,C300 Convertible,Automatic,26.5,41.4,Subcompact,2023
+0,0,All-Wheel Drive,Electricity,BMW,i4 M50 Gran Coupe (19 inch wheels),Automatic,126.1,131.4,Subcompact,2023
+0,0,All-Wheel Drive,Electricity,BMW,i4 M50 Gran Coupe (20 inch wheels),Automatic,106.3,107.7,Subcompact,2023
+0,0,Rear-Wheel Drive,Electricity,BMW,i4 eDrive40 Gran Coupe (18 inch wheels),Automatic,156.3,154.8,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,E450 Coupe,Automatic,28.8,42.5991,Subcompact,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,E450 4matic Coupe,Automatic,27.3,42.2,Subcompact,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,E450 4matic Convertible,Automatic,27.5,41.6,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M2 Coupe,Automatic,20.398,33,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,BMW,M2 Coupe,Automatic,19.9784,31.7372,Subcompact,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic Coupe,Automatic,22.9,38.5,Subcompact,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus Coupe,Automatic,25.9476,39.199,Subcompact,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG E53 4matic Plus Convertible,Automatic,25.6499,38.2997,Subcompact,2023
+6,3,Rear-Wheel Drive,Premium,Mercedes-Benz,E450 Convertible,Automatic,28.0968,41.0998,Subcompact,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG C43 4matic Convertible,Automatic,22.9,39.1,Subcompact,2023
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 S Convertible,Automatic,20.3,34.3,Subcompact,2023
+8,4,Rear-Wheel Drive,Premium,Mercedes-Benz,AMG C63 S Coupe,Automatic,20.3,34.3,Subcompact,2023
+4,2,Rear-Wheel Drive,Premium,BMW,430i Coupe,Automatic,32.0715,49.0233,Subcompact,2024
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Coupe,Automatic,30.0376,47.9891,Subcompact,2024
+4,2,Rear-Wheel Drive,Premium,BMW,430i Convertible,Automatic,32.0715,49.0233,Subcompact,2024
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Convertible,Automatic,30.0376,47.9891,Subcompact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Coupe,Automatic,19.8955,32.4972,Subcompact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Competition Coupe,Automatic,20.182,32.0616,Subcompact,2024
+6,3,All-Wheel Drive,Premium,BMW,M4 Competition M xDrive Coupe,Automatic,20.055,31.2954,Subcompact,2024
+6,3,All-Wheel Drive,Premium,BMW,M4 Competition M xDrive Convertible,Automatic,19.3569,31.7126,Subcompact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,840i Coupe,Automatic,26.4193,40.9642,Subcompact,2024
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Coupe,Automatic,26.2653,40.8215,Subcompact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,840i Convertible,Automatic,26.2759,40.7815,Subcompact,2024
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Convertible,Automatic,26.2455,40.7952,Subcompact,2024
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Coupe,Automatic,20.8458,33.2151,Subcompact,2024
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Convertible,Automatic,20.7891,33.2243,Subcompact,2024
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Coupe,Automatic,18.0898,29.9136,Subcompact,2024
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Convertible,Automatic,18.0898,29.9136,Subcompact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M440i Coupe,Automatic,30.5928,45.6126,Subcompact,2024
+6,3,All-Wheel Drive,Premium,BMW,M440i xDrive Coupe,Automatic,27.9797,44.8145,Subcompact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M440i Convertible,Automatic,29.67,44.1328,Subcompact,2024
+6,3,All-Wheel Drive,Premium,BMW,M440i xDrive Convertible,Automatic,28.0528,43.4014,Subcompact,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i4 eDrive35 Gran Coupe (18 inch Wheels),Automatic,164.3,158,Subcompact,2023
+0,0,Rear-Wheel Drive,Electricity,BMW,i4 eDrive35 Gran Coupe (19 inch Wheels),Automatic,152.4,146,Subcompact,2023
+0,0,Rear-Wheel Drive,Electricity,BMW,i4 eDrive40 Gran Coupe (19 inch Wheels),Automatic,143.1,140.5,Subcompact,2023
+5,2.5,All-Wheel Drive,Premium,Audi,RS 3,Automatic,23.5,38.7,Subcompact,2024
+4,2,All-Wheel Drive,Premium,Audi,S3,Automatic,29.5,44.4,Subcompact,2024
+6,2.9,All-Wheel Drive,Premium,Audi,RS 5 Coupe,Automatic,22.4729,34.9,Subcompact,2024
+4,2,Rear-Wheel Drive,Premium,BMW,230i Coupe,Automatic,34.3,50.9,Subcompact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M240i Coupe,Automatic,28.5813,45.6206,Subcompact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M2 Coupe,Automatic,20.398,33,Subcompact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,M2 Coupe,Automatic,19.9784,31.7372,Subcompact,2024
+4,2,All-Wheel Drive,Premium,BMW,230i xDrive Coupe,Automatic,31.6972,48.3,Subcompact,2024
+6,3,All-Wheel Drive,Premium,BMW,M240i xDrive Coupe,Automatic,29.0239,46.0918,Subcompact,2024
+0,0,4-Wheel Drive,Electricity,BMW,i4 M50 Gran Coupe (19 inch wheels),Automatic,125.6,130.9,Subcompact,2024
+0,0,4-Wheel Drive,Electricity,BMW,i4 M50 Gran Coupe (20 inch wheels),Automatic,106.3,107.7,Subcompact,2024
+0,0,4-Wheel Drive,Electricity,BMW,i4 xDrive40 Gran Coupe (18 inch Wheels),Automatic,146.5,151,Subcompact,2024
+0,0,4-Wheel Drive,Electricity,BMW,i4 xDrive40 Gran Coupe (19 inch Wheels),Automatic,133.2,136.6,Subcompact,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i4 eDrive35 Gran Coupe (18 inch Wheels),Automatic,170.3,165.6,Subcompact,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i4 eDrive35 Gran Coupe (19 inch Wheels),Automatic,155.5,149.9,Subcompact,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i4 eDrive40 Gran Coupe (18 inch Wheels),Automatic,156.3,154.8,Subcompact,2024
+0,0,Rear-Wheel Drive,Electricity,BMW,i4 eDrive40 Gran Coupe (19 inch Wheels),Automatic,143.3,140.8,Subcompact,2024
+4,2,All-Wheel Drive,Premium,Audi,A5 Coupe quattro,Automatic,29.9747,45.6356,Subcompact,2024
+4,2,All-Wheel Drive,Premium,Audi,A5 Cabriolet quattro,Automatic,29.3,42.8,Subcompact,2024
+4,2,Front-Wheel Drive,Regular,Audi,A3,Automatic,37.6989,54.0444,Subcompact,2024
+4,2,4-Wheel Drive,Regular,Audi,A3 quattro,Automatic,34.9929,49.9,Subcompact,2024
+6,3,All-Wheel Drive,Premium,Audi,S5 Coupe,Automatic,26.064,41,Subcompact,2024
+6,3,All-Wheel Drive,Premium,Audi,S5 Cabriolet,Automatic,24.9,37.7,Subcompact,2024
+5,2.5,All-Wheel Drive,Premium,Audi,RS3,Automatic,24.3,39.9,Subcompact,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,CLE300 4matic (Convertible),Automatic,29.7,46.3,Subcompact,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,CLE450 4matic (Convertible),Automatic,29.6,46,Subcompact,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,CLE450 4matic (Coupe),Automatic,27.7986,47.583,Subcompact,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GT 55 4matic Plus (coupe),Automatic,16.2,28,Subcompact,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GT 63 4matic Plus (coupe),Automatic,16.2,28,Subcompact,2024
+6,3,Rear-Wheel Drive,Premium,BMW,840i Coupe,Automatic,26.8085,41.458,Subcompact,2025
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Coupe,Automatic,26.2749,40.8342,Subcompact,2025
+6,3,Rear-Wheel Drive,Premium,BMW,840i Convertible,Automatic,26.808,41.4573,Subcompact,2025
+6,3,All-Wheel Drive,Premium,BMW,840i xDrive Convertible,Automatic,26.2746,40.8339,Subcompact,2025
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Coupe,Automatic,20.81,33.3594,Subcompact,2025
+8,4.4,All-Wheel Drive,Premium,BMW,M850i xDrive Convertible,Automatic,20.66,33.3524,Subcompact,2025
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Coupe,Automatic,18.0751,29.9136,Subcompact,2025
+8,4.4,All-Wheel Drive,Premium,BMW,M8 Competition Convertible,Automatic,18.0751,29.9136,Subcompact,2025
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,CLE300 4matic (Coupe),Automatic,30.7,49,Subcompact,2024
+4,2,Rear-Wheel Drive,Premium,BMW,430i Coupe,Automatic,36.3056,52.4432,Subcompact,2025
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Coupe,Automatic,35.1483,49.7121,Subcompact,2025
+4,2,Rear-Wheel Drive,Premium,BMW,430i Convertible,Automatic,34.5325,50.4657,Subcompact,2025
+4,2,All-Wheel Drive,Premium,BMW,430i xDrive Convertible,Automatic,31.4431,47.9888,Subcompact,2025
+4,3,Rear-Wheel Drive,Premium,BMW,M440i Coupe,Automatic,35.3331,49.3568,Subcompact,2025
+4,3,All-Wheel Drive,Premium,BMW,M440i xDrive Coupe,Automatic,34.3218,48.2611,Subcompact,2025
+4,3,Rear-Wheel Drive,Premium,BMW,M440i Convertible,Automatic,34.7502,47.4403,Subcompact,2025
+4,3,All-Wheel Drive,Premium,BMW,M440i xDrive Convertible,Automatic,32.9665,46.3483,Subcompact,2025
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Coupe,Automatic,19.8955,32.4972,Subcompact,2025
+6,3,Rear-Wheel Drive,Premium,BMW,M4 Competition Coupe,Automatic,20.182,32.0616,Subcompact,2025
+6,3,All-Wheel Drive,Premium,BMW,M4 Competition M xDrive Coupe,Automatic,19.8015,32.0624,Subcompact,2025
+6,3,All-Wheel Drive,Premium,BMW,M4 Competition M xDrive Convertible,Automatic,19.6355,31.377,Subcompact,2025
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLE350 4matic,Automatic,24.5,37.3,SUV,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,GLE450 4matic,Automatic,24.5,33.1,SUV,2020
+6,3,All-Wheel Drive,Premium,BMW,X3 M,Automatic,17.4561,26.9086,SUV,2020
+6,3,All-Wheel Drive,Premium,BMW,X3 M Competition,Automatic,17.4561,26.9086,SUV,2020
+6,3,All-Wheel Drive,Premium,BMW,X4 M,Automatic,17.4561,26.9086,SUV,2020
+6,3,All-Wheel Drive,Premium,BMW,X4 M Competition,Automatic,17.4561,26.9086,SUV,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,GLE350,Automatic,24.9,38.1,SUV,2020
+4,2,All-Wheel Drive,Premium,BMW,X3 xDrive30i,Automatic,30.2756,40.9675,SUV,2020
+6,3,All-Wheel Drive,Premium,BMW,X3 M40i,Automatic,26.2991,38.2185,SUV,2020
+4,2,All-Wheel Drive,Premium,BMW,X4 xDrive30i,Automatic,29.0959,40.3581,SUV,2020
+6,3,All-Wheel Drive,Premium,BMW,X4 M40i,Automatic,26.2991,38.2185,SUV,2020
+8,4.4,All-Wheel Drive,Premium,BMW,X5 xDrive50i,Automatic,19.9006,30.0185,SUV,2020
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M50i,Automatic,19.9006,30.0185,SUV,2020
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M50i,Automatic,19.9006,30.0185,SUV,2020
+8,4.4,All-Wheel Drive,Premium,BMW,X7 xDrive50i,Automatic,18.8152,28.6524,SUV,2020
+8,4.4,All-Wheel Drive,Premium,BMW,X7 M50i,Automatic,18.8152,28.6524,SUV,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,GLS450 4matic,Automatic,24.3,31.7,SUV,2020
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,GLC300,Automatic,27.4,40.9,SUV,2020
+4,2,Rear-Wheel Drive,Premium,BMW,X3 sDrive30i,Automatic,31.9039,41.7715,SUV,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLC300 4matic,Automatic,26.6,39.3,SUV,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLC300 4matic Coupe,Automatic,27,39.3,SUV,2020
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,GLA250,Automatic,31.2,49.8,SUV,2020
+4,2,All-Wheel Drive,Regular,Audi,Q3 quattro,Automatic,23.8,39,SUV,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLA250 4matic,Automatic,28.7,43.6,SUV,2020
+6,3,All-Wheel Drive,Premium,BMW,X5 xDrive40i,Automatic,25.311,36.4323,SUV,2020
+6,3,All-Wheel Drive,Premium,BMW,X6 xDrive40i,Automatic,25.311,36.4323,SUV,2020
+6,3,All-Wheel Drive,Premium,BMW,X7 xDrive40i,Automatic,24.8,35.3,SUV,2020
+6,3,Rear-Wheel Drive,Premium,BMW,X5 sDrive40i,Automatic,26.0775,36.1401,SUV,2020
+6,3,Rear-Wheel Drive,Premium,BMW,X6 sDrive40i,Automatic,26.0775,36.1401,SUV,2020
+4,2,All-Wheel Drive,Premium,Audi,Q5,Automatic,27.6607,39.1288,SUV,2020
+4,2,Front-Wheel Drive,Premium,Mercedes-Benz,GLB250,Automatic,29.1,45,SUV,2020
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLB250 4matic,Automatic,29.8,44.5,SUV,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG G63,Automatic,15.9,20.5,SUV,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLC63 4matic Plus,Automatic,19.5,31.3,SUV,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLC63 4matic Plus Coupe,Automatic,19.6,31,SUV,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLC63 S 4matic Plus Coupe,Automatic,19.6,31,SUV,2020
+6,3,All-Wheel Drive,Premium,Audi,SQ5,Automatic,22.5,32,SUV,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLC43 4matic,Automatic,22.8,34.4,SUV,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLC43 4matic Coupe,Automatic,22.8,34.2,SUV,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,G550,Automatic,16,22.8,SUV,2020
+6,3,All-Wheel Drive,Premium,Audi,Q7,Automatic,21.791,30.2036,SUV,2020
+6,3,All-Wheel Drive,Premium,Audi,Q8,Automatic,21.791,30.2036,SUV,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,GLE580 4matic,Automatic,21.6,29.6,SUV,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,GLS580 4matic,Automatic,20.5,28.7,SUV,2020
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M,Automatic,16.2163,25.1087,SUV,2020
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M Competition,Automatic,16.2163,25.1087,SUV,2020
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M,Automatic,16.2163,25.1087,SUV,2020
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M Competition,Automatic,16.2163,25.1087,SUV,2020
+4,2,All-Wheel Drive,Hybrid,Audi,Q5,Automatic,33.4,41.2,SUV,2020
+8,4,All-Wheel Drive,Premium,Audi,RS Q8,Automatic,17.1,26.9,SUV,2020
+4,2,All-Wheel Drive,Hybrid,BMW,X3 xDrive30e,Automatic,30.8,38.9,SUV,2020
+8,4,All-Wheel Drive,Premium,Audi,SQ7,Automatic,18.2,29.7,SUV,2020
+8,4,All-Wheel Drive,Premium,Audi,SQ8,Automatic,18.4,28.7,SUV,2020
+4,2,All-Wheel Drive,Premium,Audi,Q7,Automatic,23.9,34.4,SUV,2020
+6,3,All-Wheel Drive,Premium,BMW,X3 M,Automatic,17.4561,26.9086,SUV,2021
+6,3,All-Wheel Drive,Premium,BMW,X3 M Competition,Automatic,17.4561,26.9086,SUV,2021
+6,3,All-Wheel Drive,Premium,BMW,X4 M,Automatic,17.4561,26.9086,SUV,2021
+6,3,All-Wheel Drive,Premium,BMW,X4 M Competition,Automatic,17.4561,26.9086,SUV,2021
+6,3,All-Wheel Drive,Premium,Audi,SQ5,Automatic,23.3,33.3,SUV,2021
+0,0,All-Wheel Drive,Electricity,Audi,e-tron Sportback,Automatic,102.3817,105.0195,SUV,2020
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLE53 4matic Plus,Automatic,22.3,30.3,SUV,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,Automatic,23.2,31.7,SUV,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLA250 4matic,Automatic,30.8,47,SUV,2021
+4,2,4-Wheel Drive,Hybrid,Mercedes-Benz,GLC350e 4matic,Automatic,31.9,39.8,SUV,2020
+6,3,All-Wheel Drive,Hybrid,BMW,X5 xDrive45e,Automatic,24.3,31.9,SUV,2021
+4,2,Rear-Wheel Drive,Premium,BMW,X3 sDrive30i,Automatic,31.9039,41.7715,SUV,2021
+6,3,Rear-Wheel Drive,Premium,BMW,X5 sDrive40i,Automatic,26.8155,36.0436,SUV,2021
+6,3,Rear-Wheel Drive,Premium,BMW,X6 sDrive40i,Automatic,26.8155,36.0436,SUV,2021
+6,3,All-Wheel Drive,Premium,BMW,X5 xDrive40i,Automatic,26.149,35.8606,SUV,2021
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M50i,Automatic,19.8285,29.9393,SUV,2021
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M,Automatic,16.1143,24.851,SUV,2021
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M Competition,Automatic,16.1143,24.851,SUV,2021
+6,3,All-Wheel Drive,Premium,BMW,X6 xDrive40i,Automatic,26.149,35.8606,SUV,2021
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M50i,Automatic,19.8285,29.9393,SUV,2021
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M,Automatic,16.1143,24.851,SUV,2021
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M Competition,Automatic,16.1143,24.851,SUV,2021
+6,3,All-Wheel Drive,Premium,BMW,X7 xDrive40i,Automatic,24.5,33.7,SUV,2021
+8,4.4,All-Wheel Drive,Premium,BMW,X7 M50i,Automatic,18.6314,28.5168,SUV,2021
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina XB7,Automatic,18.6314,28.5168,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLE63 S 4matic Plus,Automatic,18.2,26.4,SUV,2021
+4,2,All-Wheel Drive,Premium,BMW,X3 xDrive30i,Automatic,29.6045,40.6191,SUV,2021
+6,3,All-Wheel Drive,Premium,BMW,X3 M40i,Automatic,26.2991,38.2185,SUV,2021
+4,2,All-Wheel Drive,Premium,BMW,X4 xDrive30i,Automatic,29.6045,40.6191,SUV,2021
+6,3,All-Wheel Drive,Premium,BMW,X4 M40i,Automatic,26.2991,38.2185,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLS63 4matic Plus,Automatic,17.8,25,SUV,2021
+4,2,All-Wheel Drive,Regular,Audi,Q3 S-line quattro,Automatic,25.3,39.8,SUV,2021
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,GLE350,Automatic,24.4,37.3,SUV,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLE350 4matic,Automatic,23.9,37,SUV,2021
+4,2,All-Wheel Drive,Premium,Audi,Q7,Automatic,23.9,34.4,SUV,2021
+8,4,All-Wheel Drive,Premium,Audi,RS Q8,Automatic,17.1,26.9,SUV,2021
+6,3,All-Wheel Drive,Premium,Audi,Q7,Automatic,23.4588,33.2311,SUV,2021
+6,3,All-Wheel Drive,Premium,Audi,Q8,Automatic,23.4588,33.2311,SUV,2021
+8,4,All-Wheel Drive,Premium,Audi,SQ7,Automatic,18.2,28.6401,SUV,2021
+8,4,All-Wheel Drive,Premium,Audi,SQ8,Automatic,18.2,28.6401,SUV,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLB250 4matic,Automatic,29.1,42.9,SUV,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,GLE450 4matic,Automatic,26.2,36,SUV,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,GLS450 4matic,Automatic,24.8,33.7,SUV,2021
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,GLC300,Automatic,28.1,41.4,SUV,2021
+4,2,All-Wheel Drive,Premium,Audi,Q5,Automatic,29.8013,40.3631,SUV,2021
+4,2,All-Wheel Drive,Regular,Audi,Q3 quattro,Automatic,28.2,43.7,SUV,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLC300 4matic,Automatic,26.5,39.2,SUV,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLC300 4matic Coupe,Automatic,28.2,40,SUV,2021
+4,2,All-Wheel Drive,Hybrid,Audi,Q5,Automatic,34.4,40.9,SUV,2021
+0,0,All-Wheel Drive,Electricity,Audi,e-tron,Automatic,105.0972,104.7181,SUV,2021
+0,0,All-Wheel Drive,Electricity,Audi,e-tron Sportback,Automatic,102.4054,105.0118,SUV,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLC43 4matic,Automatic,22.4,34.3,SUV,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLC43 4matic Coupe,Automatic,21.8,34.3,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLC63 4matic Plus,Automatic,18.5,30,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLC63 4matic Plus Coupe,Automatic,18.5,30.1,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLC63 S 4matic Plus Coupe,Automatic,18.5,30.1,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,Automatic,18.7,26.3,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,GLS600 4matic Maybach,Automatic,18.2,26.6,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,GLE580 4matic,Automatic,21.4,31,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,GLS580 4matic,Automatic,20.1,29.2,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG G63,Automatic,15.7,21.4,SUV,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,G550,Automatic,21.6,26.1,SUV,2021
+4,2,All-Wheel Drive,Premium,Audi,Q5 Sportback,Automatic,29.8012,40.3632,SUV,2021
+6,3,All-Wheel Drive,Premium,Audi,SQ5 Sportback,Automatic,23.3,33.3,SUV,2021
+4,2,All-Wheel Drive,Hybrid,BMW,X3 xDrive30e,Automatic,30.8,38.9,SUV,2021
+4,2,All-Wheel Drive,Premium,Audi,Q5 S line quattro,Automatic,29.3028,39.7895,SUV,2022
+4,2,All-Wheel Drive,Premium,Audi,Q5 Sportback S line quattro,Automatic,29.3028,39.7895,SUV,2022
+6,3,4-Wheel Drive,Premium,Audi,SQ5,Automatic,23.6,34.1,SUV,2022
+6,3,4-Wheel Drive,Premium,Audi,SQ5 Sportback,Automatic,23.6,34.1,SUV,2022
+4,2,All-Wheel Drive,Regular,Audi,Q3 S line quattro,Automatic,26.2,40.3,SUV,2022
+4,2,All-Wheel Drive,Regular,Audi,Q3 quattro,Automatic,28.8,43.7,SUV,2022
+8,4,All-Wheel Drive,Premium,Audi,SQ7,Automatic,18.2,28.5876,SUV,2022
+8,4,All-Wheel Drive,Premium,Audi,SQ8,Automatic,18.2,28.5876,SUV,2022
+8,4,All-Wheel Drive,Premium,Audi,RS Q8,Automatic,17.1,26.9,SUV,2022
+6,3,All-Wheel Drive,Premium,Audi,Q7 quattro,Automatic,23.1,33.7294,SUV,2022
+6,3,All-Wheel Drive,Premium,Audi,Q8 quattro,Automatic,23.1,33.7294,SUV,2022
+4,2,All-Wheel Drive,Hybrid,Audi,Q5 TFSI e quattro,Automatic,32.4,37.9,SUV,2022
+4,2,All-Wheel Drive,Premium,Audi,Q7 quattro,Automatic,24.8,35.3,SUV,2022
+4,2,Rear-Wheel Drive,Premium,BMW,X3 sDrive30i,Automatic,28.8492,40.7234,SUV,2022
+4,2,All-Wheel Drive,Premium,BMW,X3 xDrive30i,Automatic,27.0469,39.3647,SUV,2022
+6,3,All-Wheel Drive,Premium,BMW,X3 M40i,Automatic,27.2621,36.7215,SUV,2022
+6,3,All-Wheel Drive,Premium,BMW,X3 M,Automatic,18.4775,27.8811,SUV,2022
+6,3,All-Wheel Drive,Premium,BMW,X3 M Competition,Automatic,18.4775,27.8811,SUV,2022
+4,2,All-Wheel Drive,Premium,BMW,X4 xDrive30i,Automatic,27.0469,39.3647,SUV,2022
+6,3,All-Wheel Drive,Premium,BMW,X4 M40i,Automatic,27.2621,36.7215,SUV,2022
+6,3,All-Wheel Drive,Premium,BMW,X4 M,Automatic,18.4775,27.8811,SUV,2022
+6,3,All-Wheel Drive,Premium,BMW,X4 M Competition,Automatic,18.4775,27.8811,SUV,2022
+6,3,Rear-Wheel Drive,Premium,BMW,X5 sDrive40i,Automatic,26.7941,35.9775,SUV,2022
+6,3,All-Wheel Drive,Premium,BMW,X5 xDrive40i,Automatic,26.3157,35.8861,SUV,2022
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M50i,Automatic,19.9691,30.1987,SUV,2022
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M,Automatic,16.1143,24.851,SUV,2022
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M Competition,Automatic,16.1143,24.851,SUV,2022
+6,3,All-Wheel Drive,Premium,BMW,X6 xDrive40i,Automatic,26.3157,35.8861,SUV,2022
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M50i,Automatic,19.9691,30.1987,SUV,2022
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M,Automatic,16.1143,24.851,SUV,2022
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M Competition,Automatic,16.1143,24.851,SUV,2022
+6,3,All-Wheel Drive,Premium,BMW,X7 xDrive40i,Automatic,24.5,33.7,SUV,2022
+8,4.4,All-Wheel Drive,Premium,BMW,X7 M50i,Automatic,18.488,28.4453,SUV,2022
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina XB7,Automatic,18.488,28.4453,SUV,2022
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,GLE350,Automatic,24.5,38.3,SUV,2022
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,GLE350 4matic,Automatic,24.4,37.4,SUV,2022
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,GLE450 4matic,Automatic,25.5,35.6,SUV,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,GLS450 4matic,Automatic,23.1,33,SUV,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLA250 4matic,Automatic,29.2,46.3,SUV,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLE53 4matic Plus,Automatic,22,31,SUV,2022
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,GLC300,Automatic,27.4,41.2,SUV,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLC300 4matic,Automatic,26.7,41,SUV,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLC300 4matic Coupe,Automatic,26.4,39.5,SUV,2022
+0,0,All-Wheel Drive,Electricity,Audi,e-tron S (20in wheels),Automatic,97.7,100.9,SUV,2022
+0,0,All-Wheel Drive,Electricity,Audi,e-tron S (21/22 inch wheels),Automatic,84,87,SUV,2022
+0,0,All-Wheel Drive,Electricity,Audi,e-tron S Sportback (20 inch wheels),Automatic,98.7,104.6,SUV,2022
+0,0,All-Wheel Drive,Electricity,Audi,e-tron S Sportback (21/22 inch wheels),Automatic,85.8,89.3,SUV,2022
+0,0,All-Wheel Drive,Electricity,Audi,Q4 e-tron quattro,Automatic,142.6,127,SUV,2022
+0,0,All-Wheel Drive,Electricity,Audi,Q4 e-tron Sportback quattro,Automatic,142.6,127,SUV,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,Automatic,21.6,29.3,SUV,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLB250 4matic,Automatic,27.5,42.6,SUV,2022
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLC43 4matic,Automatic,22.5,35.5,SUV,2022
+0,0,All-Wheel Drive,Electricity,Audi,e-tron quattro,Automatic,105.1,104.7,SUV,2022
+0,0,All-Wheel Drive,Electricity,Audi,e-tron Sportback quattro,Automatic,102.4,105,SUV,2022
+4,2,All-Wheel Drive,Premium,Audi,Q5 quattro,Automatic,29.2,41.7,SUV,2022
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLC43 4matic Coupe,Automatic,19.8,34.4,SUV,2022
+6,3,All-Wheel Drive,Hybrid,BMW,X5 xDrive45e,Automatic,24.3,31.9,SUV,2022
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive50 (20 inch wheels),Automatic,117.3,117.7,SUV,2022
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive50 (21 inch wheels),Automatic,111.9,113.5,SUV,2022
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive50 (22 inch wheels),Automatic,117.1,116.1,SUV,2022
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,GLE450 4matic,Automatic,25.7,36.5,SUV,2022
+0,0,All-Wheel Drive,Electricity,BMW,iX M60 (21 inch wheels),Automatic,103.5,108.6,SUV,2023
+0,0,All-Wheel Drive,Electricity,BMW,iX M60 (22 inch wheels),Automatic,104.8,109.8,SUV,2023
+4,2,Rear-Wheel Drive,Premium,BMW,X3 sDrive30i,Automatic,28.8492,40.7234,SUV,2023
+6,3,4-Wheel Drive,Premium,Audi,SQ5,Automatic,23.6,34.1,SUV,2023
+6,3,4-Wheel Drive,Premium,Audi,SQ5 Sportback,Automatic,23.6,34.1,SUV,2023
+4,2,All-Wheel Drive,Regular,Audi,Q3 S-Line,Automatic,26.6,39.8,SUV,2023
+4,2,All-Wheel Drive,Premium,BMW,X3 xDrive30i,Automatic,27.0807,39.5881,SUV,2023
+6,3,All-Wheel Drive,Premium,BMW,X3 M40i,Automatic,27.3462,36.8272,SUV,2023
+6,3,All-Wheel Drive,Premium,BMW,X3 M,Automatic,18.4775,27.8811,SUV,2023
+6,3,All-Wheel Drive,Premium,BMW,X3 M Competition,Automatic,18.4775,27.8811,SUV,2023
+4,2,All-Wheel Drive,Premium,BMW,X4 xDrive30i,Automatic,27.0807,39.5881,SUV,2023
+6,3,All-Wheel Drive,Premium,BMW,X4 M40i,Automatic,27.3462,36.8272,SUV,2023
+6,3,All-Wheel Drive,Premium,BMW,X4 M,Automatic,18.4775,27.8811,SUV,2023
+6,3,All-Wheel Drive,Premium,BMW,X4 M Competition,Automatic,18.4775,27.8811,SUV,2023
+6,3,Rear-Wheel Drive,Premium,BMW,X5 sDrive40i,Automatic,26.794,35.9773,SUV,2023
+8,4,All-Wheel Drive,Premium,Audi,SQ7,Automatic,18.4612,28.5063,SUV,2023
+8,4,All-Wheel Drive,Premium,Audi,SQ8,Automatic,18.4612,28.5063,SUV,2023
+6,3,All-Wheel Drive,Premium,BMW,X5 xDrive40i,Automatic,26.2255,35.7276,SUV,2023
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M50i,Automatic,19.921,30.1071,SUV,2023
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M,Automatic,16.1143,24.851,SUV,2023
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M Competition,Automatic,16.1143,24.851,SUV,2023
+6,3,All-Wheel Drive,Premium,BMW,X6 xDrive40i,Automatic,26.2255,35.7276,SUV,2023
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M50i,Automatic,19.921,30.1071,SUV,2023
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M,Automatic,16.1143,24.851,SUV,2023
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M Competition,Automatic,16.1143,24.851,SUV,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,Automatic,17.9,26.7,SUV,2022
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLE63 S 4matic Plus,Automatic,18.3,26.3,SUV,2022
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLS63 4matic Plus,Automatic,16.9,25.2,SUV,2022
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,GLS600 4matic Maybach,Automatic,17.8,27.7,SUV,2022
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,GLE580 4matic,Automatic,20.1,28.9,SUV,2022
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,GLS580 4matic,Automatic,19.2,29.7,SUV,2022
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,G550,Automatic,17.8,23.5,SUV,2022
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG G63,Automatic,15.8,22,SUV,2022
+4,2,All-Wheel Drive,Premium,BMW,X1 xDrive28i,Automatic,31.7179,48.7574,SUV,2023
+6,3,All-Wheel Drive,Premium,Audi,Q7,Automatic,22.8,33.4,SUV,2023
+6,3,All-Wheel Drive,Premium,Audi,Q8,Automatic,23.1,33.5,SUV,2023
+6,3,All-Wheel Drive,Premium,BMW,X7 xDrive40i,Automatic,26.299,34.6868,SUV,2023
+8,4.4,All-Wheel Drive,Premium,BMW,X7 M60i xDrive,Automatic,20.4395,29.4007,SUV,2023
+4,2,All-Wheel Drive,Premium,Audi,Q5 quattro,Automatic,29.697,40.7,SUV,2023
+4,2,All-Wheel Drive,Premium,Audi,Q5 S-Line quattro,Automatic,28.414,39.0555,SUV,2023
+4,2,All-Wheel Drive,Premium,Audi,Q5 Sportback S-line quattro,Automatic,28.414,39.0555,SUV,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLB250 4matic,Automatic,28.1,42.4,SUV,2023
+8,4,All-Wheel Drive,Premium,Audi,RS Q8,Automatic,16.9487,26.9985,SUV,2023
+4,2,All-Wheel Drive,Premium,Audi,Q7,Automatic,24.2,34.9,SUV,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLA250 4matic,Automatic,29.2,46.3,SUV,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,GLE450 4matic,Automatic,25.7931,35.7975,SUV,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,GLS450 4matic,Automatic,23.1996,32.4972,SUV,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLE53 4matic Plus,Automatic,21.9444,30.5,SUV,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,Automatic,21.2,29.7,SUV,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,GLE350,Automatic,25,38.7,SUV,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLE350 4matic,Automatic,24.6,37.2,SUV,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLC300 4matic Coupe,Automatic,25.2,37.2,SUV,2023
+0,0,Rear-Wheel Drive,Electricity,Audi,Q4 e-tron,Automatic,159.8,134.4,SUV,2023
+0,0,All-Wheel Drive,Electricity,Audi,e-tron quattro,Automatic,105.6,106.7,SUV,2023
+0,0,All-Wheel Drive,Electricity,Audi,e-tron S (20 inch wheels),Automatic,97.7,100.9,SUV,2023
+0,0,All-Wheel Drive,Electricity,Audi,e-tron S Sportback (20 inch wheels),Automatic,98.7,104.6,SUV,2023
+0,0,All-Wheel Drive,Electricity,Audi,e-tron Sportback quattro,Automatic,103.5,107.8,SUV,2023
+0,0,All-Wheel Drive,Electricity,Audi,Q4 e-tron quattro,Automatic,139.1,124.8,SUV,2023
+0,0,All-Wheel Drive,Electricity,Audi,Q4 e-tron Sportback,Automatic,142.5,127.7,SUV,2023
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive50 (20 inch wheels),Automatic,117.3,117.7,SUV,2023
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive50 (21 inch wheels),Automatic,111.9,113.5,SUV,2023
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive50 (22 inch wheels),Automatic,117.1,116.1,SUV,2023
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQS 450 4matic (SUV),Automatic,111.6,108.1,SUV,2023
+0,0,Rear-Wheel Drive,Electricity,Mercedes-Benz,EQS 450 Plus (SUV),Automatic,122.6,117.1,SUV,2023
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQS 580 4matic (SUV),Automatic,115,107.4,SUV,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLC43 4matic Coupe,Automatic,21.6,33.9,SUV,2023
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina XB7,Automatic,19.2,28,SUV,2023
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,G550,Automatic,16.1,22.3,SUV,2023
+6,3,All-Wheel Drive,Hybrid,BMW,X5 xDrive45e,Automatic,24.3,31.9,SUV,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,Automatic,18.5,26.3,SUV,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLE63 S 4matic Plus,Automatic,18.4,27.4,SUV,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLS63 4matic Plus,Automatic,17.3977,25.6,SUV,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,GLS600 4matic Maybach,Automatic,18.2995,27.6996,SUV,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,GLE580 4matic,Automatic,20.1,28.9,SUV,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,GLS580 4matic,Automatic,19.6,29.1,SUV,2023
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQB 300 4matic,Automatic,139.362,132.6042,SUV,2022
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQB 350 4matic,Automatic,135.3724,128.7,SUV,2022
+4,2,All-Wheel Drive,Regular,Audi,Q3,Automatic,27.5,42,SUV,2023
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG G63,Automatic,16.1,21.7,SUV,2023
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG G 63 4x4 Squared,Automatic,12.1,16.3,SUV,2023
+6,3,Rear-Wheel Drive,Premium,BMW,X5 sDrive40i,Automatic,29.7,37.9,SUV,2024
+6,3,All-Wheel Drive,Premium,BMW,X5 xDrive40i,Automatic,30,38.4,SUV,2024
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M60i xDrive,Automatic,21.3372,31.1872,SUV,2024
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M Competition,Automatic,15.8142,25.0123,SUV,2024
+6,3,All-Wheel Drive,Premium,BMW,X6 xDrive40i,Automatic,29.3278,37.3999,SUV,2024
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M60i xDrive,Automatic,21.3372,31.1872,SUV,2024
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M Competition,Automatic,15.8142,25.0123,SUV,2024
+6,3,All-Wheel Drive,Premium,BMW,X7 xDrive40i,Automatic,26.299,34.6868,SUV,2024
+8,4.4,All-Wheel Drive,Premium,BMW,X7 M60i xDrive,Automatic,20.4393,29.4004,SUV,2024
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,GLE350,Automatic,27.1,39.9,SUV,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLE350 4matic,Automatic,25.8,38.7,SUV,2024
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina XB7,Automatic,19.2,28,SUV,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,GLE450 4matic,Automatic,24.4,36.2,SUV,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLE53 4matic Plus,Automatic,22.9,32.2,SUV,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,Automatic,22.3,30.7,SUV,2024
+0,0,All-Wheel Drive,Electricity,Audi,e-tron S (21/22 inch wheels),Automatic,84,87,SUV,2023
+0,0,All-Wheel Drive,Electricity,Audi,e-tron S Sportback (21/22 inch wheels),Automatic,85.8,89.3,SUV,2023
+8,4.4,All-Wheel Drive,Hybrid,BMW,XM,Automatic,14.9,23.1,SUV,2023
+4,2,Rear-Wheel Drive,Premium,BMW,X3 sDrive30i,Automatic,28.8492,40.7234,SUV,2024
+4,2,All-Wheel Drive,Premium,Audi,Q5 quattro,Automatic,29.8,42.099,SUV,2024
+6,3,All-Wheel Drive,Premium,Audi,SQ5,Automatic,23.5,33.6176,SUV,2024
+6,3,All-Wheel Drive,Premium,Audi,SQ5 Sportback,Automatic,23.5,33.6176,SUV,2024
+4,2,All-Wheel Drive,Premium,BMW,X3 xDrive30i,Automatic,27.0855,39.6402,SUV,2024
+4,2,All-Wheel Drive,Premium,BMW,X4 xDrive30i,Automatic,27.0855,39.6402,SUV,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,Automatic,18,26.7,SUV,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLE63 S 4matic Plus,Automatic,18,26.7,SUV,2024
+4,2,All-Wheel Drive,Premium,BMW,X1 M35i,Automatic,29.7638,44.7266,SUV,2024
+6,3,All-Wheel Drive,Premium,BMW,X3 M40i,Automatic,27.3337,36.8203,SUV,2024
+6,3,All-Wheel Drive,Premium,BMW,X3 M,Automatic,18.4775,27.8811,SUV,2024
+6,3,All-Wheel Drive,Premium,BMW,X3 M Competition,Automatic,18.4775,27.8811,SUV,2024
+6,3,All-Wheel Drive,Premium,BMW,X4 M40i,Automatic,27.3337,36.8203,SUV,2024
+6,3,All-Wheel Drive,Premium,BMW,X4 M,Automatic,18.4775,27.8811,SUV,2024
+6,3,All-Wheel Drive,Premium,BMW,X4 M Competition,Automatic,18.4775,27.8811,SUV,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLS63 4matic Plus,Automatic,17.4,25.3,SUV,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,GLE580 4matic,Automatic,18.1,27.6,SUV,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,GLS580 4matic,Automatic,17.2,27.2,SUV,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,GLS450 4matic,Automatic,23.3,34.4,SUV,2024
+0,0,Rear-Wheel Drive,Electricity,Audi,Q4 40 e-tron,Automatic,159.8,134.4,SUV,2024
+0,0,All-Wheel Drive,Electricity,Audi,Q4 50 e-tron quattro,Automatic,139.1,124.8,SUV,2024
+0,0,All-Wheel Drive,Electricity,Audi,Q4 Sportback 50 e-tron quattro,Automatic,142.5,127.7,SUV,2024
+0,0,All-Wheel Drive,Electricity,Audi,Q8 e-tron quattro,Automatic,105.9,109.1,SUV,2024
+0,0,All-Wheel Drive,Electricity,Audi,Q8 Sportback e-tron ultra quattro,Automatic,111.3,118.3,SUV,2024
+0,0,All-Wheel Drive,Electricity,BMW,iX M60 (21 inch Wheels),Automatic,106.9,111.8,SUV,2024
+0,0,All-Wheel Drive,Electricity,BMW,iX M60 (22 inch Wheels),Automatic,106.9,111.8,SUV,2024
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive40 (20 inch Wheels),Automatic,123,119.9,SUV,2024
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive40 (21 inch Wheels),Automatic,123,119.9,SUV,2024
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive40 (22 inch Wheels),Automatic,123,119.9,SUV,2024
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive50 (20 inch wheels),Automatic,117.1,116.9,SUV,2024
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive50 (21 inch wheels),Automatic,117.1,116.9,SUV,2024
+0,0,All-Wheel Drive,Electricity,BMW,iX xDrive50 (22 inch wheels),Automatic,117.1,116.9,SUV,2024
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,AMG EQE 4matic Plus (SUV),Automatic,108.5,100.7,SUV,2024
+4,2,All-Wheel Drive,Regular,Audi,Q3 S line quattro,Automatic,25.9,39.2,SUV,2024
+4,2,All-Wheel Drive,Premium,Audi,Q5 S line quattro,Automatic,27.7102,37.8803,SUV,2024
+4,2,All-Wheel Drive,Premium,Audi,Q5 Sportback S line quattro,Automatic,27.7102,37.8803,SUV,2024
+4,2,All-Wheel Drive,Regular,Audi,Q3 quattro,Automatic,28.1,41.6,SUV,2024
+6,3,All-Wheel Drive,Premium,Audi,Q7 quattro,Automatic,23.3,33.5,SUV,2024
+8,4,4-Wheel Drive,Premium,Audi,SQ7,Automatic,18.2,28.4,SUV,2024
+8,4,All-Wheel Drive,Premium,Audi,RS Q8,Automatic,16.3,26.2,SUV,2024
+4,2,All-Wheel Drive,Premium,Audi,Q7 quattro,Automatic,24.1,35.2,SUV,2024
+8,4,All-Wheel Drive,Premium,Audi,SQ8,Automatic,18.6,28.4,SUV,2024
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,GLS600 4matic Maybach,Automatic,16.6,26.1,SUV,2024
+4,2,All-Wheel Drive,Hybrid,Audi,Q5 TFSI e quattro,Automatic,32.6,38.2,SUV,2023
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,GLC300,Automatic,33.3,47.8,SUV,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLC300 4matic,Automatic,30.8,45.6,SUV,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLC300 4matic Coupe,Automatic,30.2,43.4,SUV,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLA250 4matic,Automatic,31.3,46.7,SUV,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLB250 4matic,Automatic,30.7,46.1,SUV,2024
+6,3,All-Wheel Drive,Premium,Audi,Q8 quattro,Automatic,21.5958,31.7,SUV,2024
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,G550,Automatic,16.1,22.3,SUV,2024
+0,0,All-Wheel Drive,Electricity,Audi,Q8 Sportback e-tron quattro,Automatic,110.8,118.4,SUV,2024
+0,0,All-Wheel Drive,Electricity,Audi,SQ8 e-tron (20 inch wheels),Automatic,93.2808,97.9779,SUV,2024
+0,0,All-Wheel Drive,Electricity,Audi,SQ8 e-tron (21/22 inch wheels),Automatic,80.9935,82.3681,SUV,2024
+0,0,All-Wheel Drive,Electricity,Audi,SQ8 Sportback e-tron (20 inch wheels),Automatic,93.2808,97.9779,SUV,2024
+0,0,All-Wheel Drive,Electricity,Audi,SQ8 Sportback e-tron (21/22 inch wheels),Automatic,80.9935,82.3681,SUV,2024
+0,0,All-Wheel Drive,Electricity,Mercedes-Benz,EQS 680 4matic Maybach (SUV),Automatic,103.9,106.6,SUV,2024
+8,4.4,All-Wheel Drive,Hybrid,BMW,XM,Automatic,14.9,23.1,SUV,2024
+4,2,Rear-Wheel Drive,Premium,Mercedes-Benz,GLC300,Automatic,32.7,46.2,SUV,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,GLC300 4matic,Automatic,29.6,44.5,SUV,2023
+4,2,All-Wheel Drive,Premium,BMW,X1 xDrive28i,Automatic,31.6379,48.6224,SUV,2024
+4,2,All-Wheel Drive,Premium,BMW,X2 xDrive28i,Automatic,31.2935,47.8826,SUV,2024
+4,2,All-Wheel Drive,Premium,BMW,X2 M35i,Automatic,29.3334,46.3225,SUV,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLC43 4matic,Automatic,23.5,35.1,SUV,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLC43 4matic Coupe,Automatic,23.2,33.6,SUV,2024
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG G63,Automatic,16.1,21.7,SUV,2024
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG G63 4x4 Squared,Automatic,12.1,16.3,SUV,2024
+6,3,Rear-Wheel Drive,Premium,BMW,X5 sDrive40i,Automatic,29.7,37.9,SUV,2025
+6,3,All-Wheel Drive,Premium,BMW,X5 xDrive40i,Automatic,30,38.4,SUV,2025
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M60i xDrive,Automatic,21.3296,31.2101,SUV,2025
+8,4.4,All-Wheel Drive,Premium,BMW,X5 M Competition,Automatic,15.8142,25.0123,SUV,2025
+6,3,All-Wheel Drive,Premium,BMW,X6 xDrive40i,Automatic,29.328,37.4001,SUV,2025
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M60i xDrive,Automatic,21.3296,31.2101,SUV,2025
+8,4.4,All-Wheel Drive,Premium,BMW,X6 M Competition,Automatic,15.8142,25.0123,SUV,2025
+8,4.4,All-Wheel Drive,Premium,BMW,X7 M60i xDrive,Automatic,19.8825,28.1127,SUV,2025
+8,4.4,All-Wheel Drive,Premium,BMW,Alpina XB7,Automatic,19.2,28,SUV,2025
+4,2,All-Wheel Drive,Premium,Audi,Q7,Automatic,24.8,36.2,SUV,2025
+6,3,All-Wheel Drive,Premium,Audi,Q7,Automatic,22.7,32.8,SUV,2025
+8,4,All-Wheel Drive,Premium,Audi,SQ7,Automatic,18.4,28.3,SUV,2025
+6,3,All-Wheel Drive,Premium,BMW,X7 xDrive40i,Automatic,25.769,34.2666,SUV,2025
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic (station wagon),Automatic,24,37.4,Wagons,2020
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG E63 S 4matic Plus (wagon),Automatic,20.1,31.7,Wagons,2020
+6,3,All-Wheel Drive,Premium,Audi,A6 Allroad,Automatic,26.3,38.2,Wagons,2020
+4,2,All-Wheel Drive,Premium,Audi,A4 allroad quattro,Automatic,29.7957,43.535,Wagons,2020
+6,3,All-Wheel Drive,Premium,Audi,A6 Allroad,Automatic,26.3,38.2,Wagons,2021
+8,4,All-Wheel Drive,Premium,Audi,RS 6 Avant,Automatic,19.4,29.1,Wagons,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLA35 4matic,Automatic,29,41.2,Wagons,2021
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic All-Terrain (wagon),Automatic,28.2,39.9,Wagons,2021
+4,2,All-Wheel Drive,Premium,Audi,A4 allroad quattro,Automatic,31,42.7,Wagons,2021
+8,4,4-Wheel Drive,Premium,Mercedes-Benz,AMG E63 S 4matic Plus (SW),Automatic,19.8,31.7,Wagons,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLA45 4matic,Automatic,25.6,37.8,Wagons,2021
+4,2,4-Wheel Drive,Premium,Mercedes-Benz,AMG GLB35 4matic,Automatic,27,37.4,Wagons,2021
+4,2,All-Wheel Drive,Premium,Audi,A4 allroad quattro,Automatic,31,42.7,Wagons,2022
+8,4,All-Wheel Drive,Premium,Audi,RS 6 Avant,Automatic,19.4,29.1,Wagons,2022
+6,3,4-Wheel Drive,Premium,Audi,A6 Allroad quattro,Automatic,26,40.3,Wagons,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLA35 4matic,Automatic,28.1,42.4,Wagons,2022
+6,3,4-Wheel Drive,Premium,Mercedes-Benz,E450 4matic All-Terrain (wagon),Automatic,27.1,40.4,Wagons,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLB35 4matic,Automatic,24.7,38.3,Wagons,2022
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLA45 4matic,Automatic,24.2,35.9,Wagons,2022
+8,4,All-Wheel Drive,Premium,Audi,RS 6 Avant,Automatic,18.4237,28.9915,Wagons,2023
+4,2,All-Wheel Drive,Premium,Audi,A4 allroad quattro,Automatic,29.8,42.3991,Wagons,2023
+6,3,All-Wheel Drive,Premium,Audi,A6 Allroad,Automatic,27,42,Wagons,2023
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,E450 4matic All-Terrain (wagon),Automatic,26.2,40.4,Wagons,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLA45 4matic,Automatic,24.6,35.7,Wagons,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLA35 4matic,Automatic,27.9,41.9,Wagons,2023
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLB35 4matic,Automatic,26.3454,38.0934,Wagons,2023
+8,4,All-Wheel Drive,Premium,Mercedes-Benz,AMG E63 S 4matic Plus (SW),Automatic,20,33.2,Wagons,2023
+4,2,All-Wheel Drive,Premium,Audi,A4 allroad quattro,Automatic,28.9,42.1,Wagons,2024
+6,3,All-Wheel Drive,Premium,Audi,A6 Allroad quattro,Automatic,27.6548,42.6608,Wagons,2024
+8,4,All-Wheel Drive,Premium,Audi,RS 6 Avant,Automatic,17.5566,28.402,Wagons,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLA35 4matic,Automatic,27.5,39.6,Wagons,2024
+4,2,All-Wheel Drive,Premium,Mercedes-Benz,AMG GLB35 4matic,Automatic,26,37.4,Wagons,2024
+6,3,All-Wheel Drive,Premium,Mercedes-Benz,E450 4matic All-Terrain (wagon),Automatic,28.2,44.2,Wagons,2024

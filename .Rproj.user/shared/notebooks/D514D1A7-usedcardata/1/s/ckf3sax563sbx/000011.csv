@@ -1,0 +1,7 @@
+"0","library(ggpubr)"
+"0","devinPalette <- c(""purple3"", ""#F2E58F"", ""grey"", ""blue1"", ""orange"", ""navy"", ""white"")"
+"0","ggplot(vehicles, aes(x = cylinders, y = displacement, fill = cylinders)) +"
+"0","  geom_violin(scale = ""width"", alpha = .5) + guides(fill = ""none"") +"
+"0","  labs(x = ""Number of Cylinders in a Vehicle"","
+"0","       y = ""Displacement of a Vehicle"","
+"0","       title = ""Does Cylinders and Displacement have Correlation?"") + scale_fill_manual(values = devinPalette) + scale_colour_manual(values = devinPalette)"

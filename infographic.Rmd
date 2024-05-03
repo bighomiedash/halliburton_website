@@ -1,0 +1,7 @@
+---
+title: "Infographic"
+description: |
+  
+---
+
+![](devin_info.png)

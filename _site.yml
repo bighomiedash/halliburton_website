@@ -1,0 +1,21 @@
+name: "halliburton_website"
+title: "Home"
+output_dir: "docs"
+theme: halliburton_theme.css
+navbar:
+  right:
+    - text: "R Projects"
+      menu:
+        - text: "Infographic"
+          href: infographic.html
+        - text: "Generative art"
+          href: generative_art.html
+        - text: "GGHalves"
+          href: gghalves.html
+        - text: "Shiny App"
+          href: shinyapp.html
+        - text: "Personal Favorites"
+          href: personalfav.html
+    - text: "Smiles Per Gallon"
+      href: usedcardata.html
+output: distill::distill_article

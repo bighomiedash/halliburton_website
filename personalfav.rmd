@@ -1,0 +1,21 @@
+---
+title: "Personal Favorites"
+description: |
+  Two of my favorite data visualizations in R are hexbin plots and violin plots, each offering unique insights into data patterns and distributions. Hexbin plots are excellent for visualizing the density of data points in a two-dimensional space, especially useful for large datasets or areas with high point overlap. The hexagonal binning technique helps reduce overplotting issues common in scatter plots, making it easier to identify trends and clusters within the data. On the other hand, violin plots provide a comprehensive view of data distributions across different categories or groups, combining box plot elements with kernel density estimates. I appreciate violin plots for their ability to show the central tendency, spread, and shape of data distributions simultaneously, making them invaluable for comparing groups and identifying outliers or unusual patterns. Both hexbin plots and violin plots, with their respective strengths in handling data density and distribution visualization, have become indispensable tools in my data exploration and analysis workflows in R..
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Hexbin Plots
+
+Hexbin plots in R are a powerful tool for visualizing the relationship between two continuous variables in a dataset. Unlike traditional scatter plots, which can suffer from overplotting issues with dense data, hexbin plots aggregate data points into hexagonal bins, revealing patterns and trends more clearly. Each hexagon's color or intensity in the plot represents the density of data points within that bin, helping to visualize areas of high concentration. The `hexbin` package in R provides functions for creating and customizing hexbin plots, allowing users to adjust parameters such as bin size, color palette, and additional annotations. Hexbin plots are particularly useful for exploring large datasets or datasets with many overlapping points, providing insights into data distribution and relationships in a visually appealing and informative manner.
+
+![The data visualization you see above is looking at the correlation between SAT scores and student's grade point averages (GPA). We can see that there is some relationship between your GPA and the SAT score you will achieve. There are some students who have a GPA lower than a 3.0, but still score reasonably high on the SAT, but once you are above a 3.0, you are likely to score nothing lower than a 1000.](hexbin.png)
+
+# Violin Plots
+
+Violin plots in R are a versatile and informative visualization tool commonly used to display the distribution of numeric data across different categories or groups. They combine elements of box plots and kernel density plots, offering a more comprehensive view of the data's distribution and variability. In a violin plot, each category or group is represented by a "violin" shape that mirrors the density of data points along the y-axis, with wider sections indicating higher data density. Additionally, the central line within each violin represents the median, while the shape's width reflects the data's distribution. R provides robust libraries such as `ggplot2` for creating violin plots with customizable aesthetics, including color schemes, width adjustments, and overlays with other plot types. Violin plots are particularly useful for comparing distributions between groups, identifying outliers, and gaining insights into the underlying data structure in statistical analyses and data exploration tasks.
+
+![The violin plot above is comparing students who have a certain grade point average (GPA) to which award do they think has the highest priority. We can see that Students around the 3.5 GPA believe that Academy awards are the highest, while a little lower than a 3.5, students believe a Nobel is higher. Olympic awards has a huge density between a 2.75 GPA and a 3.35 GPA.](violin.png)

@@ -1,0 +1,54 @@
+---
+title: "GGHalves"
+description: |
+  GGhalves is a new R package that makes it easy to compose your own half-plots using `ggplot2`. We can create half plots to showcase two plots side-by-side. On this page, we can look at the creation of a gghalves plot using `half_geom_boxplot`, and `half_geom_dotplot`.
+  We can easily do this with a half-plot thanks to gghalves. GGhalves is great for making customized `ggplot2` plots. But, you’ll still need to learn how to visualize data with `ggplot2`. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Half Boxplot and Half Dotplot
+
+For my GGHalves demonstration we used the `mtcars` dataset, to help explain how we can create this informative data visualizations. 
+
+The basic dotplot we created initially was the following:
+
+```{r, out.width="50%"}
+#basic <- ggplot(mtcars, aes(x = cyl.factor, y = mpg, color = cyl.factor)) + 
+  #geom_half_boxplot() + geom_half_dotplot()
+```
+![The graph you see above is a very basic and first draft of a gghalves plot, using half_geom_boxplot and half_geom_dotplot. The data is showcasing how does the number of cylinders in a vehicle's engine, have an effect on the miles per gallon (knowing that the more cylinders, means the more gasoline needed to produce power).](basic.png)
+
+Although we can see the outliers a bit because of the color, it is still hard to really see. We can change the size of the dotplot points and the transparency to see both dotplot points and the outliers.  
+
+```{r, out.width="50%"}
+#ggplot(mtcars, aes(x = cyl.factor, y = mpg, color = cyl.factor)) +
+  #geom_half_boxplot(outlier.color = "red") +
+  #geom_half_dotplot()
+```
+
+![In the gghalves plot above, this is the second draft from comparing the number of cylinders to the average miles per gallon those engines see. We can change the outlier colors so that we can make it much more easier to see.](cleaning.png)
+
+Considering it is hard to see the outliers, because the size and color of the `half_geom_dotplot`, we can adjust those elements to make the outliers even more visible for the viewers.
+
+```{r, out.width="50%"}
+#ggplot(mtcars, aes(x = cyl.factor, y = mpg, color = cyl.factor)) + 
+  #geom_half_boxplot(outlier.color = "red") +
+  #geom_half_dotplot(dotsize = .50, color = "black", alpha = .5)
+```
+![In the previous GGHalves visualization, we could see the red outliers, but they were such huge in size and the color being more dominant, it was hard to clearly see our outliers. In this visualization above, we have changed the size of the dots on the half_geom_dotplot, as well increase the transparency, so we can see if there are any dots behind another one.](matching.png)
+
+Lastly, to ensure our viewers can fully understand the visualization, we must add our axes labels and a title.
+
+```{r}
+#ggplot(mtcars, aes(x = cyl.factor, y = mpg, color = cyl.factor)) + geom_half_boxplot(outlier.color = "red") +
+  #geom_half_dotplot(aes(fill = cyl.factor), dotsize = .50, color = "black", alpha = .5) +
+  #labs(
+    #x = "Number of Cylinders",
+    #y = "Miles Per Gallon (MPG)",
+    #title = "Number of Cylinders and Average Miles Per Gallon"
+  #)
+```
+![The gghalves visualization above is the final and complete verison, where we have a clean color matching, we have marked are outliers to appear different than the other dots, and labeling our axis to make the visualization informative.](final.png)

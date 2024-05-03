@@ -1,0 +1,16 @@
+---
+title: "Shiny App"
+description: |
+  A Shiny App in R is a powerful tool for creating interactive web applications directly from R code. It leverages the Shiny package in R to enable users to build interactive dashboards, data visualizations, and more without needing expertise in web development languages like HTML, CSS, or JavaScript. The key components of a Shiny App include the user interface (UI) for defining the app's layout and appearance, and the server logic for handling user inputs, performing computations, and generating dynamic outputs. This reactive programming model ensures that the app responds dynamically to user interactions, updating outputs in real-time. With Shiny, R users can harness the full capabilities of R for data analysis and visualization, while also creating engaging and interactive web-based applications that can be easily shared and deployed.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<iframe src="https://abby-flynt.shinyapps.io/Asa-Devin-Logan-SP24/" class="l-screen-inset shaded" height="1000px"></iframe>.
+
+
+
+
+

@@ -1,0 +1,6 @@
+"0","ggplot(vehicles, aes(x = year, y = highway, color = make)) +"
+"0","  labs(x = ""Year the Vehicle was Produced"","
+"0","       y = ""Highway Miles Per Gallon (MPG)"","
+"0","       title = ""Have Manufacturers been Improving on Miles Per Gallon?"") +"
+"0","  stat_density_2d(aes(fill = after_stat(level)), geom = ""polygon"", color = ""grey"", h = c(50,50)) +"
+"0","  scale_fill_distiller(palette = ""Spectral"")"

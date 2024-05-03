@@ -1,0 +1,1 @@
+{"frames":[],"message":"Error: Incomplete expression:   labs(x = \"Miles Per Gallon (MPG)\",\n       y = \"Number of Cylinders\",\n       title = \"Does the Number of Cylinders have an effect on the Miles Per Gallon (MPG)\")+ scale_fill_manual(values = devinPalette) + scale_colour_manual(values = devinPalette)\n"}
